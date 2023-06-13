@@ -1,0 +1,17 @@
+#games-display {
+    position: relative;
+}
+
+#scroll-wrapper {
+    position: absolute;
+    top: 125px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#endMessage {
+    color: white;
+    font-size: 1.25rem;
+    margin-bottom: 100px;
+    text-align: center;
+}

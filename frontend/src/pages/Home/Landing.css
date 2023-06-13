@@ -1,0 +1,75 @@
+#main {
+    display: flex;
+    left: 50%;
+    position: absolute;
+    top: 20%;
+    transform: translateX(-50%);
+}
+
+#main-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1rem;
+}
+
+#main-text h1 {
+    color: white;
+    font-size: 3rem;
+}
+
+#main-text p {
+    color: rgb(195, 201, 195);
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+#main-text h3 {
+    color: var(--accent);
+    font-size: 2rem;
+    margin-top: 30px;
+}
+
+#main-p {
+    margin-top: 10px;
+}
+
+#NBA-logo {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#NBA-graphic {
+    height: 450px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+#main-btns {
+    bottom: -60px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    position: absolute;
+}
+
+#main-btns button {
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+    padding: 10px;
+    transition: 0.5s ease-in-out;
+    background-size: 200% 100%;
+}
+
+#signup-btn {
+    background-color: var(--post-bg);
+    border: 3px solid var(--accent);
+    color: var(--accent);
+}
+
+#login-btn {
+    background-color: var(--accent);
+    border: 3px solid var(--post-bg);
+    color: var(--post-bg)
+}

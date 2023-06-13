@@ -1,0 +1,139 @@
+#postdiv
+{
+    background-color: var(--post-bg);
+    border-radius: 1rem;
+    color: white;
+    padding: 25px 30px 25px 30px;
+    width: 750px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    word-break: break-all;
+    height: 400px;
+    margin-top: 100px;
+}
+#postdiv h1
+{
+    color: var(--accent);
+}
+#postdiv small
+{
+    font-size: 20px;
+    margin-left: 10px;
+}
+#btns-delete
+{
+    position: absolute;
+    top: 90%;
+    background-color: #ba3b59;
+    border: 2px solid #ba3b59;
+    border-radius: 1rem;
+    color: var(--post-bg);
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    height: 30px;
+    width: 80px;
+    transition: 0.3s ease-in-out;
+}
+#btns-edit
+{
+    position: absolute;
+    top: 90%;
+    left: 15%;
+    background-color: #3b98ba;
+    border: 1px solid #3b98ba;
+    border-radius: 1rem;
+    color: var(--post-bg);
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    height: 30px;
+    width: 80px;
+    transition: 0.3s ease-in-out;
+}
+.btn:hover
+{
+    background-color: var(--hover);
+    color: var(--accent);
+}
+
+#comment-form {
+    background-color: var(--post-bg);
+    border-radius: 1rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 25px 30px 25px 30px;
+    width: 750px;
+    margin-top: 400px;
+}
+#comment-form button
+{
+    background-color: var(--accent);
+    border: 1px solid var(--accent);
+    color: var(--post-bg);
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: 600;
+    height: 30px;
+    margin-top: 35px;
+    transition: 0.3s ease-in-out;
+}
+#comment-form input {
+    border: none;
+    box-sizing: border-box;
+    height: 50px;
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+#comment-form input:focus {
+    outline: none;
+}
+
+#commentsection {
+    background-color: var(--post-bg);
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    width: 750px;
+    height: 500px;
+    margin-top: 820px;
+    margin-bottom: 100px;
+    border-radius: 1rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    transform: translate(-50%, -50%);
+    padding: 25px 30px 25px 30px;
+    overflow: auto;
+}
+
+#author
+{
+    color: var(--accent);
+    font-weight: 600;
+}
+
+#cmnt
+{
+    margin: 5px;
+}
+
+#ratebtns
+{
+    position: absolute;
+    top: 88%;
+    left: 77%;
+}
+
+.sel
+{
+    color: plum;
+}

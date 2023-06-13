@@ -1,0 +1,13 @@
+section {
+    height: 1100px;
+}
+
+#feed-section {
+    background-color: var(--post-bg);
+}
+
+#games-section {}
+
+#tp-section {
+    background-color: var(--grey);
+}

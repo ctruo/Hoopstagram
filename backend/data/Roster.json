@@ -1,0 +1,4612 @@
+{
+    "players": [
+        {
+            "tid": 5,
+            "name": "Evan Mobley",
+            "jerseyNumber": "4",
+            "position": "FC",
+            "height": 83,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630596.png"
+        },
+        {
+            "tid": 19,
+            "name": "Julius Randle",
+            "jerseyNumber": "30",
+            "position": "PF",
+            "height": 80,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203944.png"
+        },
+        {
+            "tid": 17,
+            "name": "Rudy Gobert",
+            "jerseyNumber": "27",
+            "position": "C",
+            "height": 85,
+            "weight": 258,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203497.png"
+        },
+        {
+            "tid": 11,
+            "name": "Myles Turner",
+            "jerseyNumber": "33",
+            "position": "C",
+            "height": 83,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png"
+        },
+        {
+            "tid": 9,
+            "name": "Draymond Green",
+            "jerseyNumber": "23",
+            "position": "PF",
+            "height": 78,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png"
+        },
+        {
+            "tid": 28,
+            "name": "Lauri Markkanen",
+            "jerseyNumber": "24",
+            "position": "F",
+            "height": 84,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png"
+        },
+        {
+            "tid": 4,
+            "name": "Lonzo Ball",
+            "jerseyNumber": "2",
+            "position": "PG",
+            "height": 78,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628366.png"
+        },
+        {
+            "tid": 8,
+            "name": "James Wiseman",
+            "jerseyNumber": "33",
+            "position": "C",
+            "height": 84,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630164.png"
+        },
+        {
+            "tid": 2,
+            "name": "Ben Simmons",
+            "jerseyNumber": "25",
+            "position": "PG",
+            "height": 83,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png"
+        },
+        {
+            "tid": 6,
+            "name": "Luka Doncic",
+            "jerseyNumber": "77",
+            "position": "G",
+            "height": 79,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612742/2018/260x190/1629029.png"
+        },
+        {
+            "tid": 14,
+            "name": "Steven Adams",
+            "jerseyNumber": "12",
+            "position": "C",
+            "height": 83,
+            "weight": 265,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png"
+        },
+        {
+            "tid": 7,
+            "name": "Jamal Murray",
+            "jerseyNumber": "27",
+            "position": "G",
+            "height": 75,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png"
+        },
+        {
+            "tid": 1,
+            "name": "Robert Williams III",
+            "jerseyNumber": "44",
+            "position": "FC",
+            "height": 81,
+            "weight": 237,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629057.png"
+        },
+        {
+            "tid": 8,
+            "name": "Bojan Bogdanovic",
+            "jerseyNumber": "44",
+            "position": "F",
+            "height": 79,
+            "weight": 226,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202711.png"
+        },
+        {
+            "tid": 4,
+            "name": "DeMar DeRozan",
+            "jerseyNumber": "10",
+            "position": "F",
+            "height": 78,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png"
+        },
+        {
+            "tid": 18,
+            "name": "Jonas Valanciunas",
+            "jerseyNumber": "17",
+            "position": "C",
+            "height": 83,
+            "weight": 265,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png"
+        },
+        {
+            "tid": 27,
+            "name": "Will Barton",
+            "jerseyNumber": "5",
+            "position": "GF",
+            "height": 78,
+            "weight": 181,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203115.png"
+        },
+        {
+            "tid": 16,
+            "name": "Jrue Holiday",
+            "jerseyNumber": "11",
+            "position": "G",
+            "height": 75,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201950.png"
+        },
+        {
+            "tid": 25,
+            "name": "De'Aaron Fox",
+            "jerseyNumber": "5",
+            "position": "PG",
+            "height": 75,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png"
+        },
+        {
+            "tid": 12,
+            "name": "Kawhi Leonard",
+            "jerseyNumber": "2",
+            "position": "GF",
+            "height": 79,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png"
+        },
+        {
+            "tid": 7,
+            "name": "Jeff Green",
+            "jerseyNumber": "22",
+            "position": "F",
+            "height": 80,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201145.png"
+        },
+        {
+            "tid": 26,
+            "name": "Devonte' Graham",
+            "jerseyNumber": "4",
+            "position": "PG",
+            "height": 73,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628984.png"
+        },
+        {
+            "tid": 9,
+            "name": "Stephen Curry",
+            "jerseyNumber": "30",
+            "position": "PG",
+            "height": 74,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png"
+        },
+        {
+            "tid": 12,
+            "name": "Russell Westbrook",
+            "jerseyNumber": "0",
+            "position": "PG",
+            "height": 75,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png"
+        },
+        {
+            "tid": 20,
+            "name": "Shai Gilgeous-Alexander",
+            "jerseyNumber": "2",
+            "position": "G",
+            "height": 77,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png"
+        },
+        {
+            "tid": 18,
+            "name": "Zion Williamson",
+            "jerseyNumber": "1",
+            "position": "PF",
+            "height": 79,
+            "weight": 284,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png"
+        },
+        {
+            "tid": 0,
+            "name": "Saddiq Bey",
+            "jerseyNumber": "41",
+            "position": "F",
+            "height": 79,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630180.png"
+        },
+        {
+            "tid": 22,
+            "name": "James Harden",
+            "jerseyNumber": "13",
+            "position": "G",
+            "height": 77,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png"
+        },
+        {
+            "tid": 8,
+            "name": "Cade Cunningham",
+            "jerseyNumber": "2",
+            "position": "G",
+            "height": 78,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630595.png"
+        },
+        {
+            "tid": 13,
+            "name": "Anthony Davis",
+            "jerseyNumber": "23",
+            "position": "FC",
+            "height": 82,
+            "weight": 253,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203076.png"
+        },
+        {
+            "tid": 16,
+            "name": "Grayson Allen",
+            "jerseyNumber": "24",
+            "position": "GF",
+            "height": 76,
+            "weight": 198,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628960.png"
+        },
+        {
+            "tid": 28,
+            "name": "Collin Sexton",
+            "jerseyNumber": "2",
+            "position": "G",
+            "height": 73,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png"
+        },
+        {
+            "tid": 15,
+            "name": "Jimmy Butler",
+            "jerseyNumber": "21",
+            "position": "F",
+            "height": 79,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202710.png"
+        },
+        {
+            "tid": 13,
+            "name": "D'Angelo Russell",
+            "jerseyNumber": "1",
+            "position": "G",
+            "height": 76,
+            "weight": 193,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png"
+        },
+        {
+            "tid": 3,
+            "name": "Terry Rozier",
+            "jerseyNumber": "12",
+            "position": "G",
+            "height": 73,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png"
+        },
+        {
+            "tid": 6,
+            "name": "Christian Wood",
+            "jerseyNumber": "35",
+            "position": "FC",
+            "height": 82,
+            "weight": 214,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626174.png"
+        },
+        {
+            "tid": 18,
+            "name": "C.J. McCollum",
+            "jerseyNumber": "3",
+            "position": "G",
+            "height": 75,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203468.png"
+        },
+        {
+            "tid": 18,
+            "name": "Brandon Ingram",
+            "jerseyNumber": "14",
+            "position": "GF",
+            "height": 79,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627742.png"
+        },
+        {
+            "tid": 17,
+            "name": "Mike Conley",
+            "jerseyNumber": "11",
+            "position": "PG",
+            "height": 73,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png"
+        },
+        {
+            "tid": 4,
+            "name": "Patrick Williams",
+            "jerseyNumber": "44",
+            "position": "PF",
+            "height": 79,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630172.png"
+        },
+        {
+            "tid": 7,
+            "name": "Thomas Bryant",
+            "jerseyNumber": "31",
+            "position": "C",
+            "height": 82,
+            "weight": 248,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628418.png"
+        },
+        {
+            "tid": 13,
+            "name": "LeBron James",
+            "jerseyNumber": "23",
+            "position": "F",
+            "height": 81,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png"
+        },
+        {
+            "tid": 4,
+            "name": "Ayo Dosunmu",
+            "jerseyNumber": "12",
+            "position": "G",
+            "height": 76,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630245.png"
+        },
+        {
+            "tid": 25,
+            "name": "Richaun Holmes",
+            "jerseyNumber": "22",
+            "position": "C",
+            "height": 82,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png"
+        },
+        {
+            "tid": 6,
+            "name": "Dwight Powell",
+            "jerseyNumber": "12",
+            "position": "C",
+            "height": 82,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203939.png"
+        },
+        {
+            "tid": 12,
+            "name": "Paul George",
+            "jerseyNumber": "24",
+            "position": "F",
+            "height": 80,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png"
+        },
+        {
+            "tid": 8,
+            "name": "Isaiah Stewart",
+            "jerseyNumber": "28",
+            "position": "C",
+            "height": 80,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630191.png"
+        },
+        {
+            "tid": 17,
+            "name": "Karl-Anthony Towns",
+            "jerseyNumber": "32",
+            "position": "C",
+            "height": 83,
+            "weight": 248,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png"
+        },
+        {
+            "tid": 7,
+            "name": "Nikola Jokic",
+            "jerseyNumber": "15",
+            "position": "C",
+            "height": 83,
+            "weight": 284,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png"
+        },
+        {
+            "tid": 11,
+            "name": "Tyrese Haliburton",
+            "jerseyNumber": "0",
+            "position": "G",
+            "height": 77,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630169.png"
+        },
+        {
+            "tid": 15,
+            "name": "Duncan Robinson",
+            "jerseyNumber": "55",
+            "position": "GF",
+            "height": 79,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629130.png"
+        },
+        {
+            "tid": 3,
+            "name": "LaMelo Ball",
+            "jerseyNumber": "2",
+            "position": "PG",
+            "height": 78,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630163.png"
+        },
+        {
+            "tid": 2,
+            "name": "Spencer Dinwiddie",
+            "jerseyNumber": "8",
+            "position": "G",
+            "height": 78,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203915.png"
+        },
+        {
+            "tid": 4,
+            "name": "Zach LaVine",
+            "jerseyNumber": "8",
+            "position": "GF",
+            "height": 77,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png"
+        },
+        {
+            "tid": 12,
+            "name": "Nicolas Batum",
+            "jerseyNumber": "88",
+            "position": "PF",
+            "height": 81,
+            "weight": 230,
+            "playerIMG": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3416.png"
+        },
+        {
+            "tid": 4,
+            "name": "Patrick Beverley",
+            "jerseyNumber": "12",
+            "position": "PG",
+            "height": 73,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201976.png"
+        },
+        {
+            "tid": 19,
+            "name": "R.J. Barrett",
+            "jerseyNumber": "9",
+            "position": "GF",
+            "height": 78,
+            "weight": 214,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629628.png"
+        },
+        {
+            "tid": 27,
+            "name": "Pascal Siakam",
+            "jerseyNumber": "43",
+            "position": "FC",
+            "height": 80,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png"
+        },
+        {
+            "tid": 23,
+            "name": "Chris Paul",
+            "jerseyNumber": "3",
+            "position": "PG",
+            "height": 72,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png"
+        },
+        {
+            "tid": 5,
+            "name": "Darius Garland",
+            "jerseyNumber": "10",
+            "position": "PG",
+            "height": 73,
+            "weight": 192,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629636.png"
+        },
+        {
+            "tid": 29,
+            "name": "Kristaps Porzingis",
+            "jerseyNumber": "6",
+            "position": "C",
+            "height": 87,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png"
+        },
+        {
+            "tid": 15,
+            "name": "Kyle Lowry",
+            "jerseyNumber": "1",
+            "position": "PG",
+            "height": 72,
+            "weight": 196,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200768.png"
+        },
+        {
+            "tid": 8,
+            "name": "Jaden Ivey",
+            "jerseyNumber": "23",
+            "position": "SG",
+            "height": 76,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631093.png"
+        },
+        {
+            "tid": 24,
+            "name": "Jerami Grant",
+            "jerseyNumber": "39",
+            "position": "F",
+            "height": 80,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203924.png"
+        },
+        {
+            "tid": 0,
+            "name": "Clint Capela",
+            "jerseyNumber": "15",
+            "position": "C",
+            "height": 82,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png"
+        },
+        {
+            "tid": 14,
+            "name": "Desmond Bane",
+            "jerseyNumber": "22",
+            "position": "GF",
+            "height": 77,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630217.png"
+        },
+        {
+            "tid": 23,
+            "name": "T.J. Warren",
+            "jerseyNumber": "12",
+            "position": "SF",
+            "height": 80,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203933.png"
+        },
+        {
+            "tid": 1,
+            "name": "Jayson Tatum",
+            "jerseyNumber": "0",
+            "position": "F",
+            "height": 80,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628369.png"
+        },
+        {
+            "tid": 21,
+            "name": "Jalen Suggs",
+            "jerseyNumber": "4",
+            "position": "G",
+            "height": 77,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630591.png"
+        },
+        {
+            "tid": 29,
+            "name": "Kendrick Nunn",
+            "jerseyNumber": "25",
+            "position": "PG",
+            "height": 74,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629134.png"
+        },
+        {
+            "tid": 24,
+            "name": "Jusuf Nurkic",
+            "jerseyNumber": "23",
+            "position": "C",
+            "height": 83,
+            "weight": 290,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203994.png"
+        },
+        {
+            "tid": 5,
+            "name": "Jarrett Allen",
+            "jerseyNumber": "31",
+            "position": "C",
+            "height": 83,
+            "weight": 243,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png"
+        },
+        {
+            "tid": 2,
+            "name": "Mikal Bridges",
+            "jerseyNumber": "25",
+            "position": "GF",
+            "height": 78,
+            "weight": 209,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png"
+        },
+        {
+            "tid": 7,
+            "name": "Aaron Gordon",
+            "jerseyNumber": "00",
+            "position": "F",
+            "height": 80,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png"
+        },
+        {
+            "tid": 1,
+            "name": "Marcus Smart",
+            "jerseyNumber": "36",
+            "position": "G",
+            "height": 76,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203935.png"
+        },
+        {
+            "tid": 22,
+            "name": "P.J. Tucker",
+            "jerseyNumber": "1",
+            "position": "F",
+            "height": 77,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200782.png"
+        },
+        {
+            "tid": 19,
+            "name": "Mitchell Robinson",
+            "jerseyNumber": "26",
+            "position": "C",
+            "height": 84,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629011.png"
+        },
+        {
+            "tid": 22,
+            "name": "Joel Embiid",
+            "jerseyNumber": "21",
+            "position": "C",
+            "height": 84,
+            "weight": 280,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png"
+        },
+        {
+            "tid": 19,
+            "name": "Evan Fournier",
+            "jerseyNumber": "94",
+            "position": "GF",
+            "height": 79,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203095.png"
+        },
+        {
+            "tid": 9,
+            "name": "Andrew Wiggins",
+            "jerseyNumber": "22",
+            "position": "F",
+            "height": 79,
+            "weight": 197,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png"
+        },
+        {
+            "tid": 20,
+            "name": "Luguentz Dort",
+            "jerseyNumber": "5",
+            "position": "GF",
+            "height": 75,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629652.png"
+        },
+        {
+            "tid": 1,
+            "name": "Jaylen Brown",
+            "jerseyNumber": "7",
+            "position": "GF",
+            "height": 78,
+            "weight": 223,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627759.png"
+        },
+        {
+            "tid": 5,
+            "name": "Danny Green",
+            "jerseyNumber": "14",
+            "position": "SF",
+            "height": 78,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201980.png"
+        },
+        {
+            "tid": 2,
+            "name": "Dorian Finney-Smith",
+            "jerseyNumber": "10",
+            "position": "F",
+            "height": 79,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627827.png"
+        },
+        {
+            "tid": 3,
+            "name": "Gordon Hayward",
+            "jerseyNumber": "20",
+            "position": "SF",
+            "height": 79,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202330.png"
+        },
+        {
+            "tid": 1,
+            "name": "Al Horford",
+            "jerseyNumber": "15",
+            "position": "C",
+            "height": 81,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201143.png"
+        },
+        {
+            "tid": 26,
+            "name": "Keldon Johnson",
+            "jerseyNumber": "3",
+            "position": "F",
+            "height": 78,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629640.png"
+        },
+        {
+            "tid": 6,
+            "name": "Kyrie Irving",
+            "jerseyNumber": "2",
+            "position": "PG",
+            "height": 74,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png"
+        },
+        {
+            "tid": 1,
+            "name": "Derrick White",
+            "jerseyNumber": "4",
+            "position": "SG",
+            "height": 76,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png"
+        },
+        {
+            "tid": 7,
+            "name": "Michael Porter Jr.",
+            "jerseyNumber": "1",
+            "position": "SF",
+            "height": 82,
+            "weight": 218,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png"
+        },
+        {
+            "tid": 0,
+            "name": "John Collins",
+            "jerseyNumber": "20",
+            "position": "PF",
+            "height": 81,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png"
+        },
+        {
+            "tid": 7,
+            "name": "Kentavious Caldwell-Pope",
+            "jerseyNumber": "5",
+            "position": "GF",
+            "height": 77,
+            "weight": 204,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203484.png"
+        },
+        {
+            "tid": 13,
+            "name": "Dennis Schroder",
+            "jerseyNumber": "17",
+            "position": "G",
+            "height": 73,
+            "weight": 172,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203471.png"
+        },
+        {
+            "tid": 8,
+            "name": "Marvin Bagley III",
+            "jerseyNumber": "35",
+            "position": "FC",
+            "height": 83,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png"
+        },
+        {
+            "tid": 20,
+            "name": "Josh Giddey",
+            "jerseyNumber": "3",
+            "position": "G",
+            "height": 80,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630581.png"
+        },
+        {
+            "tid": 17,
+            "name": "Anthony Edwards",
+            "jerseyNumber": "1",
+            "position": "GF",
+            "height": 76,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630162.png"
+        },
+        {
+            "tid": 15,
+            "name": "Bam Adebayo",
+            "jerseyNumber": "13",
+            "position": "C",
+            "height": 81,
+            "weight": 255,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png"
+        },
+        {
+            "tid": 0,
+            "name": "De'Andre Hunter",
+            "jerseyNumber": "12",
+            "position": "F",
+            "height": 80,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png"
+        },
+        {
+            "tid": 26,
+            "name": "Doug McDermott",
+            "jerseyNumber": "3",
+            "position": "F",
+            "height": 79,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203926.png"
+        },
+        {
+            "tid": 16,
+            "name": "Khris Middleton",
+            "jerseyNumber": "32",
+            "position": "F",
+            "height": 79,
+            "weight": 222,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203114.png"
+        },
+        {
+            "tid": 10,
+            "name": "Jae'Sean Tate",
+            "jerseyNumber": "8",
+            "position": "F",
+            "height": 76,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630256.png"
+        },
+        {
+            "tid": 10,
+            "name": "Kevin Porter Jr.",
+            "jerseyNumber": "4",
+            "position": "SG",
+            "height": 76,
+            "weight": 203,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629645.png"
+        },
+        {
+            "tid": 12,
+            "name": "Mason Plumlee",
+            "jerseyNumber": "1",
+            "position": "C",
+            "height": 83,
+            "weight": 254,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png"
+        },
+        {
+            "tid": 16,
+            "name": "Giannis Antetokounmpo",
+            "jerseyNumber": "34",
+            "position": "PF",
+            "height": 83,
+            "weight": 242,
+            "playerIMG": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=350&h=254"
+        },
+        {
+            "tid": 10,
+            "name": "Jalen Green",
+            "jerseyNumber": "0",
+            "position": "SG",
+            "height": 76,
+            "weight": 186,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630224.png"
+        },
+        {
+            "tid": 16,
+            "name": "Brook Lopez",
+            "jerseyNumber": "11",
+            "position": "C",
+            "height": 84,
+            "weight": 282,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201572.png"
+        },
+        {
+            "tid": 12,
+            "name": "Norman Powell",
+            "jerseyNumber": "24",
+            "position": "GF",
+            "height": 75,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png"
+        },
+        {
+            "tid": 4,
+            "name": "Nikola Vucevic",
+            "jerseyNumber": "8",
+            "position": "C",
+            "height": 82,
+            "weight": 260,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202696.png"
+        },
+        {
+            "tid": 4,
+            "name": "Coby White",
+            "jerseyNumber": "0",
+            "position": "G",
+            "height": 76,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629632.png"
+        },
+        {
+            "tid": 27,
+            "name": "OG Anunoby",
+            "jerseyNumber": "3",
+            "position": "GF",
+            "height": 79,
+            "weight": 232,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png"
+        },
+        {
+            "tid": 24,
+            "name": "Damian Lillard",
+            "jerseyNumber": "0",
+            "position": "PG",
+            "height": 74,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203081.png"
+        },
+        {
+            "tid": 5,
+            "name": "Caris LeVert",
+            "jerseyNumber": "22",
+            "position": "GF",
+            "height": 78,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627747.png"
+        },
+        {
+            "tid": 23,
+            "name": "Deandre Ayton",
+            "jerseyNumber": "22",
+            "position": "C",
+            "height": 83,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629028.png"
+        },
+        {
+            "tid": 8,
+            "name": "Alec Burks",
+            "jerseyNumber": "10",
+            "position": "GF",
+            "height": 78,
+            "weight": 214,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202692.png"
+        },
+        {
+            "tid": 6,
+            "name": "Tim Hardaway Jr.",
+            "jerseyNumber": "5",
+            "position": "GF",
+            "height": 77,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203501.png"
+        },
+        {
+            "tid": 28,
+            "name": "Ochai Agbaji",
+            "jerseyNumber": "30",
+            "position": "SG",
+            "height": 77,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630534.png"
+        },
+        {
+            "tid": 2,
+            "name": "Seth Curry",
+            "jerseyNumber": "1",
+            "position": "SG",
+            "height": 74,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203552.png"
+        },
+        {
+            "tid": 23,
+            "name": "Kevin Durant",
+            "jerseyNumber": "35",
+            "position": "F",
+            "height": 82,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png"
+        },
+        {
+            "tid": 5,
+            "name": "Donovan Mitchell",
+            "jerseyNumber": "45",
+            "position": "G",
+            "height": 73,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628378.png"
+        },
+        {
+            "tid": 19,
+            "name": "Jalen Brunson",
+            "jerseyNumber": "13",
+            "position": "PG",
+            "height": 73,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628973.png"
+        },
+        {
+            "tid": 25,
+            "name": "Harrison Barnes",
+            "jerseyNumber": "40",
+            "position": "F",
+            "height": 80,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203084.png"
+        },
+        {
+            "tid": 25,
+            "name": "Malik Monk",
+            "jerseyNumber": "1",
+            "position": "SG",
+            "height": 75,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628370.png"
+        },
+        {
+            "tid": 23,
+            "name": "Devin Booker",
+            "jerseyNumber": "1",
+            "position": "SG",
+            "height": 77,
+            "weight": 206,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626164.png"
+        },
+        {
+            "tid": 11,
+            "name": "Daniel Theis",
+            "jerseyNumber": "27",
+            "position": "C",
+            "height": 80,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628464.png"
+        },
+        {
+            "tid": 14,
+            "name": "Jaren Jackson Jr.",
+            "jerseyNumber": "13",
+            "position": "FC",
+            "height": 83,
+            "weight": 242,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png"
+        },
+        {
+            "tid": 0,
+            "name": "Trae Young",
+            "jerseyNumber": "11",
+            "position": "PG",
+            "height": 73,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png"
+        },
+        {
+            "tid": 27,
+            "name": "Scottie Barnes",
+            "jerseyNumber": "4",
+            "position": "F",
+            "height": 79,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630567.png"
+        },
+        {
+            "tid": 19,
+            "name": "Derrick Rose",
+            "jerseyNumber": "1",
+            "position": "PG",
+            "height": 74,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201565.png"
+        },
+        {
+            "tid": 1,
+            "name": "Malcolm Brogdon",
+            "jerseyNumber": "13",
+            "position": "G",
+            "height": 77,
+            "weight": 229,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png"
+        },
+        {
+            "tid": 16,
+            "name": "Bobby Portis",
+            "jerseyNumber": "5",
+            "position": "FC",
+            "height": 82,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626171.png"
+        },
+        {
+            "tid": 27,
+            "name": "Gary Trent Jr.",
+            "jerseyNumber": "9",
+            "position": "SG",
+            "height": 77,
+            "weight": 209,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629107.png"
+        },
+        {
+            "tid": 18,
+            "name": "Josh Richardson",
+            "jerseyNumber": "0",
+            "position": "SF",
+            "height": 77,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626196.png"
+        },
+        {
+            "tid": 2,
+            "name": "Joe Harris",
+            "jerseyNumber": "12",
+            "position": "GF",
+            "height": 78,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203925.png"
+        },
+        {
+            "tid": 28,
+            "name": "Talen Horton-Tucker",
+            "jerseyNumber": "5",
+            "position": "GF",
+            "height": 76,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629659.png"
+        },
+        {
+            "tid": 4,
+            "name": "Javonte Green",
+            "jerseyNumber": "43",
+            "position": "GF",
+            "height": 77,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629750.png"
+        },
+        {
+            "tid": 2,
+            "name": "Patty Mills",
+            "jerseyNumber": "8",
+            "position": "PG",
+            "height": 73,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201988.png"
+        },
+        {
+            "tid": 13,
+            "name": "Jarred Vanderbilt",
+            "jerseyNumber": "8",
+            "position": "PF",
+            "height": 81,
+            "weight": 214,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629020.png"
+        },
+        {
+            "tid": 19,
+            "name": "Josh Hart",
+            "jerseyNumber": "5",
+            "position": "GF",
+            "height": 77,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png"
+        },
+        {
+            "tid": 3,
+            "name": "Kelly Oubre Jr.",
+            "jerseyNumber": "12",
+            "position": "GF",
+            "height": 79,
+            "weight": 203,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626162.png"
+        },
+        {
+            "tid": 0,
+            "name": "Dejounte Murray",
+            "jerseyNumber": "5",
+            "position": "G",
+            "height": 76,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png"
+        },
+        {
+            "tid": 12,
+            "name": "Robert Covington",
+            "jerseyNumber": "33",
+            "position": "PF",
+            "height": 79,
+            "weight": 209,
+            "playerIMG": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2490620.png&w=350&h=254"
+        },
+        {
+            "tid": 6,
+            "name": "Justin Holiday",
+            "jerseyNumber": "14",
+            "position": "GF",
+            "height": 78,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203200.png"
+        },
+        {
+            "tid": 0,
+            "name": "AJ Griffin",
+            "jerseyNumber": "14",
+            "position": "SF",
+            "height": 79,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631100.png"
+        },
+        {
+            "tid": 2,
+            "name": "Nic Claxton",
+            "jerseyNumber": "33",
+            "position": "C",
+            "height": 83,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629651.png"
+        },
+        {
+            "tid": 29,
+            "name": "Monte Morris",
+            "jerseyNumber": "11",
+            "position": "PG",
+            "height": 74,
+            "weight": 183,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628420.png"
+        },
+        {
+            "tid": 16,
+            "name": "Jae Crowder",
+            "jerseyNumber": "9",
+            "position": "F",
+            "height": 78,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203109.png"
+        },
+        {
+            "tid": 1,
+            "name": "Grant Williams",
+            "jerseyNumber": "12",
+            "position": "F",
+            "height": 78,
+            "weight": 236,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629684.png"
+        },
+        {
+            "tid": 25,
+            "name": "Domantas Sabonis",
+            "jerseyNumber": "3",
+            "position": "C",
+            "height": 83,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627734.png"
+        },
+        {
+            "tid": 5,
+            "name": "Isaac Okoro",
+            "jerseyNumber": "35",
+            "position": "GF",
+            "height": 78,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630171.png"
+        },
+        {
+            "tid": 25,
+            "name": "Kevin Huerter",
+            "jerseyNumber": "3",
+            "position": "SG",
+            "height": 79,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png"
+        },
+        {
+            "tid": 5,
+            "name": "Ricky Rubio",
+            "jerseyNumber": "9",
+            "position": "PG",
+            "height": 75,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201937.png"
+        },
+        {
+            "tid": 17,
+            "name": "Jaden McDaniels",
+            "jerseyNumber": "3",
+            "position": "F",
+            "height": 81,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630183.png"
+        },
+        {
+            "tid": 27,
+            "name": "Jakob Poeltl",
+            "jerseyNumber": "42",
+            "position": "C",
+            "height": 85,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png"
+        },
+        {
+            "tid": 23,
+            "name": "Darius Bazley",
+            "jerseyNumber": "7",
+            "position": "PF",
+            "height": 80,
+            "weight": 208,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629647.png"
+        },
+        {
+            "tid": 20,
+            "name": "Chet Holmgren",
+            "jerseyNumber": "7",
+            "position": "C",
+            "height": 83,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631096.png"
+        },
+        {
+            "tid": 6,
+            "name": "Reggie Bullock",
+            "jerseyNumber": "25",
+            "position": "SF",
+            "height": 78,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203493.png"
+        },
+        {
+            "tid": 7,
+            "name": "Bruce Brown Jr.",
+            "jerseyNumber": "6",
+            "position": "G",
+            "height": 76,
+            "weight": 202,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628971.png"
+        },
+        {
+            "tid": 12,
+            "name": "Bones Hyland",
+            "jerseyNumber": "3",
+            "position": "G",
+            "height": 74,
+            "weight": 169,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630538.png"
+        },
+        {
+            "tid": 19,
+            "name": "Immanuel Quickley",
+            "jerseyNumber": "5",
+            "position": "G",
+            "height": 75,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630193.png"
+        },
+        {
+            "tid": 26,
+            "name": "Jeremy Sochan",
+            "jerseyNumber": "10",
+            "position": "PF",
+            "height": 81,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631110.png"
+        },
+        {
+            "tid": 2,
+            "name": "Cameron Johnson",
+            "jerseyNumber": "23",
+            "position": "PF",
+            "height": 80,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629661.png"
+        },
+        {
+            "tid": 24,
+            "name": "Anfernee Simons",
+            "jerseyNumber": "24",
+            "position": "G",
+            "height": 75,
+            "weight": 181,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629014.png"
+        },
+        {
+            "tid": 7,
+            "name": "Peyton Watson",
+            "jerseyNumber": "8",
+            "position": "SF",
+            "height": 80,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631212.png"
+        },
+        {
+            "tid": 24,
+            "name": "Cam Reddish",
+            "jerseyNumber": "22",
+            "position": "SF",
+            "height": 80,
+            "weight": 218,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629629.png"
+        },
+        {
+            "tid": 7,
+            "name": "Reggie Jackson",
+            "jerseyNumber": "15",
+            "position": "G",
+            "height": 75,
+            "weight": 208,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202704.png"
+        },
+        {
+            "tid": 10,
+            "name": "Jabari Smith Jr.",
+            "jerseyNumber": "1",
+            "position": "PF",
+            "height": 82,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631095.png"
+        },
+        {
+            "tid": 7,
+            "name": "Christian Braun",
+            "jerseyNumber": "0",
+            "position": "GF",
+            "height": 78,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631128.png"
+        },
+        {
+            "tid": 0,
+            "name": "Bogdan Bogdanovic",
+            "jerseyNumber": "8",
+            "position": "GF",
+            "height": 78,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203992.png"
+        },
+        {
+            "tid": 22,
+            "name": "Tobias Harris",
+            "jerseyNumber": "15",
+            "position": "PF",
+            "height": 80,
+            "weight": 226,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202699.png"
+        },
+        {
+            "tid": 8,
+            "name": "Killian Hayes",
+            "jerseyNumber": "7",
+            "position": "G",
+            "height": 77,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630165.png"
+        },
+        {
+            "tid": 9,
+            "name": "Klay Thompson",
+            "jerseyNumber": "11",
+            "position": "GF",
+            "height": 78,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png"
+        },
+        {
+            "tid": 2,
+            "name": "Royce O'Neale",
+            "jerseyNumber": "23",
+            "position": "SF",
+            "height": 77,
+            "weight": 226,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626220.png"
+        },
+        {
+            "tid": 15,
+            "name": "Victor Oladipo",
+            "jerseyNumber": "5",
+            "position": "SG",
+            "height": 76,
+            "weight": 213,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203506.png"
+        },
+        {
+            "tid": 22,
+            "name": "Tyrese Maxey",
+            "jerseyNumber": "0",
+            "position": "G",
+            "height": 74,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630178.png"
+        },
+        {
+            "tid": 15,
+            "name": "Tyler Herro",
+            "jerseyNumber": "14",
+            "position": "G",
+            "height": 77,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629639.png"
+        },
+        {
+            "tid": 18,
+            "name": "Herbert Jones",
+            "jerseyNumber": "5",
+            "position": "F",
+            "height": 78,
+            "weight": 206,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630529.png"
+        },
+        {
+            "tid": 19,
+            "name": "Isaiah Roby",
+            "jerseyNumber": "22",
+            "position": "FC",
+            "height": 80,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629676.png"
+        },
+        {
+            "tid": 9,
+            "name": "Jordan Poole",
+            "jerseyNumber": "3",
+            "position": "G",
+            "height": 76,
+            "weight": 194,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png"
+        },
+        {
+            "tid": 1,
+            "name": "Danilo Gallinari",
+            "jerseyNumber": "8",
+            "position": "PF",
+            "height": 82,
+            "weight": 233,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201568.png"
+        },
+        {
+            "tid": 9,
+            "name": "Kevon Looney",
+            "jerseyNumber": "36",
+            "position": "C",
+            "height": 81,
+            "weight": 222,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626172.png"
+        },
+        {
+            "tid": 11,
+            "name": "Buddy Hield",
+            "jerseyNumber": "24",
+            "position": "GF",
+            "height": 76,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png"
+        },
+        {
+            "tid": 13,
+            "name": "Austin Reaves",
+            "jerseyNumber": "15",
+            "position": "GF",
+            "height": 77,
+            "weight": 197,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630559.png"
+        },
+        {
+            "tid": 27,
+            "name": "Fred VanVleet",
+            "jerseyNumber": "23",
+            "position": "PG",
+            "height": 73,
+            "weight": 197,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png"
+        },
+        {
+            "tid": 28,
+            "name": "Walker Kessler",
+            "jerseyNumber": "24",
+            "position": "C",
+            "height": 83,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631117.png"
+        },
+        {
+            "tid": 15,
+            "name": "Kevin Love",
+            "jerseyNumber": "42",
+            "position": "PF",
+            "height": 80,
+            "weight": 251,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png"
+        },
+        {
+            "tid": 12,
+            "name": "Eric Gordon",
+            "jerseyNumber": "10",
+            "position": "GF",
+            "height": 75,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201569.png"
+        },
+        {
+            "tid": 23,
+            "name": "Damion Lee",
+            "jerseyNumber": "8",
+            "position": "GF",
+            "height": 77,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627814.png"
+        },
+        {
+            "tid": 18,
+            "name": "Jaxson Hayes",
+            "jerseyNumber": "10",
+            "position": "C",
+            "height": 83,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629637.png"
+        },
+        {
+            "tid": 11,
+            "name": "Bennedict Mathurin",
+            "jerseyNumber": "00",
+            "position": "GF",
+            "height": 79,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631097.png"
+        },
+        {
+            "tid": 13,
+            "name": "Malik Beasley",
+            "jerseyNumber": "25",
+            "position": "SG",
+            "height": 76,
+            "weight": 187,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627736.png"
+        },
+        {
+            "tid": 6,
+            "name": "Maxi Kleber",
+            "jerseyNumber": "42",
+            "position": "FC",
+            "height": 82,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628467.png"
+        },
+        {
+            "tid": 11,
+            "name": "George Hill",
+            "jerseyNumber": "3",
+            "position": "G",
+            "height": 76,
+            "weight": 188,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201588.png"
+        },
+        {
+            "tid": 4,
+            "name": "Carlik Jones",
+            "jerseyNumber": "23",
+            "position": "PG",
+            "height": 73,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630637.png"
+        },
+        {
+            "tid": 25,
+            "name": "Kessler Edwards",
+            "jerseyNumber": "14",
+            "position": "F",
+            "height": 79,
+            "weight": 203,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630556.png"
+        },
+        {
+            "tid": 24,
+            "name": "Nassir Little",
+            "jerseyNumber": "9",
+            "position": "F",
+            "height": 77,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629642.png"
+        },
+        {
+            "tid": 29,
+            "name": "Bradley Beal",
+            "jerseyNumber": "3",
+            "position": "SG",
+            "height": 76,
+            "weight": 207,
+            "playerIMG": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6580.png"
+        },
+        {
+            "tid": 9,
+            "name": "Andre Iguodala",
+            "jerseyNumber": "9",
+            "position": "SF",
+            "height": 78,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2738.png"
+        },
+        {
+            "tid": 25,
+            "name": "Davion Mitchell",
+            "jerseyNumber": "15",
+            "position": "PG",
+            "height": 72,
+            "weight": 202,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630558.png"
+        },
+        {
+            "tid": 24,
+            "name": "Shaedon Sharpe",
+            "jerseyNumber": "17",
+            "position": "SG",
+            "height": 76,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631101.png"
+        },
+        {
+            "tid": 1,
+            "name": "Blake Griffin",
+            "jerseyNumber": "32",
+            "position": "FC",
+            "height": 81,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201933.png"
+        },
+        {
+            "tid": 29,
+            "name": "Johnny Davis",
+            "jerseyNumber": "1",
+            "position": "SG",
+            "height": 77,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631098.png"
+        },
+        {
+            "tid": 18,
+            "name": "Larry Nance Jr.",
+            "jerseyNumber": "7",
+            "position": "FC",
+            "height": 79,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626204.png"
+        },
+        {
+            "tid": 13,
+            "name": "Lonnie Walker IV",
+            "jerseyNumber": "1",
+            "position": "GF",
+            "height": 76,
+            "weight": 204,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629022.png"
+        },
+        {
+            "tid": 24,
+            "name": "Matisse Thybulle",
+            "jerseyNumber": "22",
+            "position": "GF",
+            "height": 77,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629680.png"
+        },
+        {
+            "tid": 3,
+            "name": "P.J. Washington",
+            "jerseyNumber": "25",
+            "position": "FC",
+            "height": 79,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629023.png"
+        },
+        {
+            "tid": 14,
+            "name": "Ja Morant",
+            "jerseyNumber": "12",
+            "position": "PG",
+            "height": 75,
+            "weight": 174,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png"
+        },
+        {
+            "tid": 22,
+            "name": "Shake Milton",
+            "jerseyNumber": "18",
+            "position": "GF",
+            "height": 77,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629003.png"
+        },
+        {
+            "tid": 29,
+            "name": "Kyle Kuzma",
+            "jerseyNumber": "0",
+            "position": "PF",
+            "height": 81,
+            "weight": 221,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628398.png"
+        },
+        {
+            "tid": 29,
+            "name": "Taj Gibson",
+            "jerseyNumber": "22",
+            "position": "C",
+            "height": 81,
+            "weight": 232,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201959.png"
+        },
+        {
+            "tid": 2,
+            "name": "Edmond Sumner",
+            "jerseyNumber": "5",
+            "position": "G",
+            "height": 76,
+            "weight": 196,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628410.png"
+        },
+        {
+            "tid": 12,
+            "name": "Marcus Morris",
+            "jerseyNumber": "2",
+            "position": "F",
+            "height": 80,
+            "weight": 218,
+            "playerIMG": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6462.png"
+        },
+        {
+            "tid": 4,
+            "name": "Andre Drummond",
+            "jerseyNumber": "1",
+            "position": "C",
+            "height": 82,
+            "weight": 279,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203083.png"
+        },
+        {
+            "tid": 29,
+            "name": "Corey Kispert",
+            "jerseyNumber": "24",
+            "position": "GF",
+            "height": 78,
+            "weight": 224,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630557.png"
+        },
+        {
+            "tid": 6,
+            "name": "Jaden Hardy",
+            "jerseyNumber": "3",
+            "position": "SG",
+            "height": 76,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630702.png"
+        },
+        {
+            "tid": 6,
+            "name": "JaVale McGee",
+            "jerseyNumber": "34",
+            "position": "C",
+            "height": 84,
+            "weight": 270,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201580.png"
+        },
+        {
+            "tid": 11,
+            "name": "Chris Duarte",
+            "jerseyNumber": "3",
+            "position": "SG",
+            "height": 77,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630537.png"
+        },
+        {
+            "tid": 14,
+            "name": "Dillon Brooks",
+            "jerseyNumber": "24",
+            "position": "SF",
+            "height": 79,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628415.png"
+        },
+        {
+            "tid": 9,
+            "name": "Jonathan Kuminga",
+            "jerseyNumber": "00",
+            "position": "PF",
+            "height": 79,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630228.png"
+        },
+        {
+            "tid": 16,
+            "name": "MarJon Beauchamp",
+            "jerseyNumber": "0",
+            "position": "SF",
+            "height": 78,
+            "weight": 170,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1630699.png"
+        },
+        {
+            "tid": 10,
+            "name": "Tari Eason",
+            "jerseyNumber": "17",
+            "position": "F",
+            "height": 80,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631106.png"
+        },
+        {
+            "tid": 6,
+            "name": "Josh Green",
+            "jerseyNumber": "8",
+            "position": "GF",
+            "height": 77,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630182.png"
+        },
+        {
+            "tid": 27,
+            "name": "Precious Achiuwa",
+            "jerseyNumber": "5",
+            "position": "FC",
+            "height": 80,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630173.png"
+        },
+        {
+            "tid": 0,
+            "name": "Onyeka Okongwu",
+            "jerseyNumber": "17",
+            "position": "C",
+            "height": 80,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630168.png"
+        },
+        {
+            "tid": 22,
+            "name": "De'Anthony Melton",
+            "jerseyNumber": "14",
+            "position": "G",
+            "height": 74,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629001.png"
+        },
+        {
+            "tid": 10,
+            "name": "TyTy Washington",
+            "jerseyNumber": "0",
+            "position": "PG",
+            "height": 75,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631102.png"
+        },
+        {
+            "tid": 16,
+            "name": "Pat Connaughton",
+            "jerseyNumber": "5",
+            "position": "GF",
+            "height": 77,
+            "weight": 209,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626192.png"
+        },
+        {
+            "tid": 1,
+            "name": "Payton Pritchard",
+            "jerseyNumber": "11",
+            "position": "PG",
+            "height": 73,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630202.png"
+        },
+        {
+            "tid": 22,
+            "name": "Jalen McDaniels",
+            "jerseyNumber": "6",
+            "position": "F",
+            "height": 81,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629667.png"
+        },
+        {
+            "tid": 23,
+            "name": "Bismack Biyombo",
+            "jerseyNumber": "0",
+            "position": "C",
+            "height": 80,
+            "weight": 255,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202687.png"
+        },
+        {
+            "tid": 29,
+            "name": "Delon Wright",
+            "jerseyNumber": "55",
+            "position": "G",
+            "height": 77,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626153.png"
+        },
+        {
+            "tid": 10,
+            "name": "Willie Cauley-Stein",
+            "jerseyNumber": "00",
+            "position": "C",
+            "height": 84,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626161.png"
+        },
+        {
+            "tid": 3,
+            "name": "Cody Martin",
+            "jerseyNumber": "11",
+            "position": "GF",
+            "height": 77,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628998.png"
+        },
+        {
+            "tid": 17,
+            "name": "Naz Reid",
+            "jerseyNumber": "11",
+            "position": "C",
+            "height": 81,
+            "weight": 264,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629675.png"
+        },
+        {
+            "tid": 4,
+            "name": "Alex Caruso",
+            "jerseyNumber": "4",
+            "position": "G",
+            "height": 77,
+            "weight": 186,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627936.png"
+        },
+        {
+            "tid": 28,
+            "name": "Jordan Clarkson",
+            "jerseyNumber": "6",
+            "position": "SG",
+            "height": 76,
+            "weight": 194,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203903.png"
+        },
+        {
+            "tid": 0,
+            "name": "Garrison Mathews",
+            "jerseyNumber": "24",
+            "position": "SG",
+            "height": 77,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629726.png"
+        },
+        {
+            "tid": 22,
+            "name": "Mac McClung",
+            "jerseyNumber": "00",
+            "position": "PG",
+            "height": 74,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630644.png"
+        },
+        {
+            "tid": 22,
+            "name": "Georges Niang",
+            "jerseyNumber": "32",
+            "position": "F",
+            "height": 79,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627777.png"
+        },
+        {
+            "tid": 20,
+            "name": "Kenrich Williams",
+            "jerseyNumber": "34",
+            "position": "F",
+            "height": 78,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629026.png"
+        },
+        {
+            "tid": 19,
+            "name": "Obi Toppin",
+            "jerseyNumber": "1",
+            "position": "PF",
+            "height": 81,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630167.png"
+        },
+        {
+            "tid": 2,
+            "name": "Dru Smith",
+            "jerseyNumber": "9",
+            "position": "SG",
+            "height": 75,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630696.png"
+        },
+        {
+            "tid": 22,
+            "name": "Montrezl Harrell",
+            "jerseyNumber": "35",
+            "position": "C",
+            "height": 79,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626149.png"
+        },
+        {
+            "tid": 21,
+            "name": "Cole Anthony",
+            "jerseyNumber": "50",
+            "position": "PG",
+            "height": 75,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630175.png"
+        },
+        {
+            "tid": 25,
+            "name": "Keegan Murray",
+            "jerseyNumber": "13",
+            "position": "F",
+            "height": 80,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631099.png"
+        },
+        {
+            "tid": 6,
+            "name": "Markieff Morris",
+            "jerseyNumber": "11",
+            "position": "PF",
+            "height": 81,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202693.png"
+        },
+        {
+            "tid": 20,
+            "name": "Aleksej Pokusevski",
+            "jerseyNumber": "17",
+            "position": "PF",
+            "height": 84,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630197.png"
+        },
+        {
+            "tid": 3,
+            "name": "James Bouknight",
+            "jerseyNumber": "5",
+            "position": "SG",
+            "height": 76,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630547.png"
+        },
+        {
+            "tid": 11,
+            "name": "Oshae Brissett",
+            "jerseyNumber": "12",
+            "position": "F",
+            "height": 79,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629052.png"
+        },
+        {
+            "tid": 29,
+            "name": "Jay Huff",
+            "jerseyNumber": "30",
+            "position": "C",
+            "height": 85,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630643.png"
+        },
+        {
+            "tid": 29,
+            "name": "Deni Avdija",
+            "jerseyNumber": "9",
+            "position": "SF",
+            "height": 81,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630166.png"
+        },
+        {
+            "tid": 20,
+            "name": "Jeremiah Robinson-Earl",
+            "jerseyNumber": "50",
+            "position": "FC",
+            "height": 80,
+            "weight": 242,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630526.png"
+        },
+        {
+            "tid": 17,
+            "name": "Taurean Prince",
+            "jerseyNumber": "12",
+            "position": "F",
+            "height": 79,
+            "weight": 218,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627752.png"
+        },
+        {
+            "tid": 27,
+            "name": "Otto Porter Jr.",
+            "jerseyNumber": "22",
+            "position": "F",
+            "height": 80,
+            "weight": 198,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203490.png"
+        },
+        {
+            "tid": 11,
+            "name": "Jordan Nwora",
+            "jerseyNumber": "13",
+            "position": "F",
+            "height": 80,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629670.png"
+        },
+        {
+            "tid": 16,
+            "name": "Goran Dragic",
+            "jerseyNumber": "2",
+            "position": "PG",
+            "height": 75,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201609.png"
+        },
+        {
+            "tid": 16,
+            "name": "Joe Ingles",
+            "jerseyNumber": "2",
+            "position": "F",
+            "height": 80,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204060.png"
+        },
+        {
+            "tid": 9,
+            "name": "Donte DiVincenzo",
+            "jerseyNumber": "9",
+            "position": "SG",
+            "height": 76,
+            "weight": 203,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628978.png"
+        },
+        {
+            "tid": 28,
+            "name": "Kelly Olynyk",
+            "jerseyNumber": "41",
+            "position": "FC",
+            "height": 83,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203482.png"
+        },
+        {
+            "tid": 26,
+            "name": "Romeo Langford",
+            "jerseyNumber": "45",
+            "position": "GF",
+            "height": 77,
+            "weight": 216,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629641.png"
+        },
+        {
+            "tid": 4,
+            "name": "Dalen Terry",
+            "jerseyNumber": "25",
+            "position": "GF",
+            "height": 79,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631207.png"
+        },
+        {
+            "tid": 17,
+            "name": "Nickeil Alexander-Walker",
+            "jerseyNumber": "0",
+            "position": "GF",
+            "height": 77,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629638.png"
+        },
+        {
+            "tid": 14,
+            "name": "Brandon Clarke",
+            "jerseyNumber": "15",
+            "position": "PF",
+            "height": 80,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629634.png"
+        },
+        {
+            "tid": 6,
+            "name": "Davis Bertans",
+            "jerseyNumber": "42",
+            "position": "PF",
+            "height": 82,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png"
+        },
+        {
+            "tid": 26,
+            "name": "Devin Vassell",
+            "jerseyNumber": "24",
+            "position": "GF",
+            "height": 77,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630170.png"
+        },
+        {
+            "tid": 23,
+            "name": "Cameron Payne",
+            "jerseyNumber": "22",
+            "position": "PG",
+            "height": 73,
+            "weight": 183,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626166.png"
+        },
+        {
+            "tid": 1,
+            "name": "J.D. Davison",
+            "jerseyNumber": "20",
+            "position": "PG",
+            "height": 75,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631120.png"
+        },
+        {
+            "tid": 20,
+            "name": "Tre Mann",
+            "jerseyNumber": "23",
+            "position": "PG",
+            "height": 75,
+            "weight": 178,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630544.png"
+        },
+        {
+            "tid": 10,
+            "name": "Kenyon Martin Jr.",
+            "jerseyNumber": "6",
+            "position": "SF",
+            "height": 77,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630231.png"
+        },
+        {
+            "tid": 3,
+            "name": "Mark Williams",
+            "jerseyNumber": "5",
+            "position": "C",
+            "height": 84,
+            "weight": 243,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631109.png"
+        },
+        {
+            "tid": 21,
+            "name": "Paolo Banchero",
+            "jerseyNumber": "5",
+            "position": "PF",
+            "height": 81,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631094.png"
+        },
+        {
+            "tid": 13,
+            "name": "Tristan Thompson",
+            "jerseyNumber": "13",
+            "position": "FC",
+            "height": 81,
+            "weight": 254,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202684.png"
+        },
+        {
+            "tid": 17,
+            "name": "Austin Rivers",
+            "jerseyNumber": "25",
+            "position": "SG",
+            "height": 76,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203085.png"
+        },
+        {
+            "tid": 23,
+            "name": "Landry Shamet",
+            "jerseyNumber": "1",
+            "position": "SG",
+            "height": 76,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629013.png"
+        },
+        {
+            "tid": 21,
+            "name": "Franz Wagner",
+            "jerseyNumber": "22",
+            "position": "GF",
+            "height": 82,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630532.png"
+        },
+        {
+            "tid": 5,
+            "name": "Robin Lopez",
+            "jerseyNumber": "15",
+            "position": "C",
+            "height": 84,
+            "weight": 281,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201577.png"
+        },
+        {
+            "tid": 8,
+            "name": "Cory Joseph",
+            "jerseyNumber": "5",
+            "position": "PG",
+            "height": 75,
+            "weight": 193,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202709.png"
+        },
+        {
+            "tid": 25,
+            "name": "Alex Len",
+            "jerseyNumber": "21",
+            "position": "C",
+            "height": 84,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203458.png"
+        },
+        {
+            "tid": 10,
+            "name": "Alperen Sengun",
+            "jerseyNumber": "28",
+            "position": "C",
+            "height": 82,
+            "weight": 243,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630578.png"
+        },
+        {
+            "tid": 29,
+            "name": "Daniel Gafford",
+            "jerseyNumber": "12",
+            "position": "C",
+            "height": 81,
+            "weight": 234,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629655.png"
+        },
+        {
+            "tid": 16,
+            "name": "Jevon Carter",
+            "jerseyNumber": "3",
+            "position": "PG",
+            "height": 73,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628975.png"
+        },
+        {
+            "tid": 13,
+            "name": "Rui Hachimura",
+            "jerseyNumber": "8",
+            "position": "PF",
+            "height": 80,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629060.png"
+        },
+        {
+            "tid": 10,
+            "name": "Boban Marjanovic",
+            "jerseyNumber": "40",
+            "position": "C",
+            "height": 88,
+            "weight": 290,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626246.png"
+        },
+        {
+            "tid": 15,
+            "name": "Gabe Vincent",
+            "jerseyNumber": "2",
+            "position": "G",
+            "height": 75,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629216.png"
+        },
+        {
+            "tid": 27,
+            "name": "Chris Boucher",
+            "jerseyNumber": "25",
+            "position": "FC",
+            "height": 81,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628449.png"
+        },
+        {
+            "tid": 29,
+            "name": "Jordan Goodwin",
+            "jerseyNumber": "7",
+            "position": "G",
+            "height": 75,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630692.png"
+        },
+        {
+            "tid": 10,
+            "name": "Frank Kaminsky",
+            "jerseyNumber": "44",
+            "position": "C",
+            "height": 84,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626163.png"
+        },
+        {
+            "tid": 14,
+            "name": "Ziaire Williams",
+            "jerseyNumber": "8",
+            "position": "SF",
+            "height": 80,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630533.png"
+        },
+        {
+            "tid": 11,
+            "name": "T.J. McConnell",
+            "jerseyNumber": "12",
+            "position": "PG",
+            "height": 73,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png"
+        },
+        {
+            "tid": 9,
+            "name": "Patrick Baldwin Jr.",
+            "jerseyNumber": "7",
+            "position": "F",
+            "height": 81,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631116.png"
+        },
+        {
+            "tid": 4,
+            "name": "Terry Taylor",
+            "jerseyNumber": "32",
+            "position": "F",
+            "height": 77,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630678.png"
+        },
+        {
+            "tid": 18,
+            "name": "Dyson Daniels",
+            "jerseyNumber": "11",
+            "position": "G",
+            "height": 78,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630700.png"
+        },
+        {
+            "tid": 3,
+            "name": "Bryce McGowens",
+            "jerseyNumber": "7",
+            "position": "SG",
+            "height": 79,
+            "weight": 179,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631121.png"
+        },
+        {
+            "tid": 5,
+            "name": "Cedi Osman",
+            "jerseyNumber": "16",
+            "position": "SF",
+            "height": 79,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626224.png"
+        },
+        {
+            "tid": 12,
+            "name": "Ivica Zubac",
+            "jerseyNumber": "40",
+            "position": "C",
+            "height": 84,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png"
+        },
+        {
+            "tid": 6,
+            "name": "Frank Ntilikina",
+            "jerseyNumber": "11",
+            "position": "G",
+            "height": 76,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628373.png"
+        },
+        {
+            "tid": 24,
+            "name": "Justise Winslow",
+            "jerseyNumber": "20",
+            "position": "GF",
+            "height": 78,
+            "weight": 222,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626159.png"
+        },
+        {
+            "tid": 4,
+            "name": "Derrick Jones Jr.",
+            "jerseyNumber": "10",
+            "position": "F",
+            "height": 78,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627884.png"
+        },
+        {
+            "tid": 28,
+            "name": "Rudy Gay",
+            "jerseyNumber": "22",
+            "position": "PF",
+            "height": 80,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200752.png"
+        },
+        {
+            "tid": 9,
+            "name": "Gary Payton II",
+            "jerseyNumber": "0",
+            "position": "G",
+            "height": 75,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627780.png"
+        },
+        {
+            "tid": 2,
+            "name": "Cam Thomas",
+            "jerseyNumber": "24",
+            "position": "G",
+            "height": 77,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630560.png"
+        },
+        {
+            "tid": 21,
+            "name": "Wendell Carter Jr.",
+            "jerseyNumber": "34",
+            "position": "C",
+            "height": 82,
+            "weight": 270,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png"
+        },
+        {
+            "tid": 28,
+            "name": "Juan Toscano-Anderson",
+            "jerseyNumber": "95",
+            "position": "F",
+            "height": 78,
+            "weight": 209,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1629308.png"
+        },
+        {
+            "tid": 22,
+            "name": "Furkan Korkmaz",
+            "jerseyNumber": "30",
+            "position": "GF",
+            "height": 79,
+            "weight": 202,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627788.png"
+        },
+        {
+            "tid": 13,
+            "name": "Mo Bamba",
+            "jerseyNumber": "5",
+            "position": "C",
+            "height": 84,
+            "weight": 231,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628964.png"
+        },
+        {
+            "tid": 18,
+            "name": "Kira Lewis Jr.",
+            "jerseyNumber": "13",
+            "position": "PG",
+            "height": 75,
+            "weight": 170,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630184.png"
+        },
+        {
+            "tid": 15,
+            "name": "Max Strus",
+            "jerseyNumber": "28",
+            "position": "GF",
+            "height": 77,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629622.png"
+        },
+        {
+            "tid": 25,
+            "name": "Chimezie Metu",
+            "jerseyNumber": "7",
+            "position": "FC",
+            "height": 81,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629002.png"
+        },
+        {
+            "tid": 21,
+            "name": "Gary Harris",
+            "jerseyNumber": "14",
+            "position": "SG",
+            "height": 76,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png"
+        },
+        {
+            "tid": 13,
+            "name": "Max Christie",
+            "jerseyNumber": "10",
+            "position": "SG",
+            "height": 79,
+            "weight": 184,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631108.png"
+        },
+        {
+            "tid": 28,
+            "name": "Simone Fontecchio",
+            "jerseyNumber": "16",
+            "position": "SF",
+            "height": 80,
+            "weight": 209,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631323.png"
+        },
+        {
+            "tid": 21,
+            "name": "Michael Carter-Williams",
+            "jerseyNumber": "1",
+            "position": "G",
+            "height": 77,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203487.png"
+        },
+        {
+            "tid": 5,
+            "name": "Dean Wade",
+            "jerseyNumber": "32",
+            "position": "PF",
+            "height": 81,
+            "weight": 228,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629731.png"
+        },
+        {
+            "tid": 10,
+            "name": "Josh Christopher",
+            "jerseyNumber": "9",
+            "position": "SG",
+            "height": 75,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630528.png"
+        },
+        {
+            "tid": 20,
+            "name": "Lindy Waters III",
+            "jerseyNumber": "12",
+            "position": "GF",
+            "height": 78,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1630322.png"
+        },
+        {
+            "tid": 2,
+            "name": "Day'Ron Sharpe",
+            "jerseyNumber": "20",
+            "position": "C",
+            "height": 83,
+            "weight": 265,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630549.png"
+        },
+        {
+            "tid": 24,
+            "name": "Keon Johnson",
+            "jerseyNumber": "6",
+            "position": "SG",
+            "height": 75,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630553.png"
+        },
+        {
+            "tid": 3,
+            "name": "Theo Maledon",
+            "jerseyNumber": "11",
+            "position": "PG",
+            "height": 76,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630177.png"
+        },
+        {
+            "tid": 8,
+            "name": "R.J. Hampton",
+            "jerseyNumber": "13",
+            "position": "G",
+            "height": 76,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630181.png"
+        },
+        {
+            "tid": 17,
+            "name": "Kyle Anderson",
+            "jerseyNumber": "1",
+            "position": "PF",
+            "height": 81,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203937.png"
+        },
+        {
+            "tid": 15,
+            "name": "Caleb Martin",
+            "jerseyNumber": "10",
+            "position": "F",
+            "height": 77,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628997.png"
+        },
+        {
+            "tid": 26,
+            "name": "Khem Birch",
+            "jerseyNumber": "24",
+            "position": "C",
+            "height": 81,
+            "weight": 233,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203920.png"
+        },
+        {
+            "tid": 19,
+            "name": "Quentin Grimes",
+            "jerseyNumber": "6",
+            "position": "SG",
+            "height": 76,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629656.png"
+        },
+        {
+            "tid": 23,
+            "name": "Torrey Craig",
+            "jerseyNumber": "3",
+            "position": "F",
+            "height": 79,
+            "weight": 221,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628470.png"
+        },
+        {
+            "tid": 3,
+            "name": "Sviatoslav Mykhailiuk",
+            "jerseyNumber": "10",
+            "position": "GF",
+            "height": 79,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629004.png"
+        },
+        {
+            "tid": 14,
+            "name": "Santi Aldama",
+            "jerseyNumber": "7",
+            "position": "FC",
+            "height": 83,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630583.png"
+        },
+        {
+            "tid": 18,
+            "name": "Jose Alvarado",
+            "jerseyNumber": "15",
+            "position": "PG",
+            "height": 72,
+            "weight": 179,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630631.png"
+        },
+        {
+            "tid": 7,
+            "name": "Ish Smith",
+            "jerseyNumber": "13",
+            "position": "PG",
+            "height": 72,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202397.png"
+        },
+        {
+            "tid": 27,
+            "name": "Thaddeus Young",
+            "jerseyNumber": "21",
+            "position": "PF",
+            "height": 80,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201152.png"
+        },
+        {
+            "tid": 2,
+            "name": "Yuta Watanabe",
+            "jerseyNumber": "12",
+            "position": "F",
+            "height": 81,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629139.png"
+        },
+        {
+            "tid": 27,
+            "name": "Ron Harper Jr.",
+            "jerseyNumber": "8",
+            "position": "GF",
+            "height": 78,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631199.png"
+        },
+        {
+            "tid": 17,
+            "name": "Wendell Moore Jr.",
+            "jerseyNumber": "7",
+            "position": "SF",
+            "height": 77,
+            "weight": 216,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631111.png"
+        },
+        {
+            "tid": 8,
+            "name": "Jalen Duren",
+            "jerseyNumber": "0",
+            "position": "C",
+            "height": 81,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631105.png"
+        },
+        {
+            "tid": 22,
+            "name": "Danuel House Jr.",
+            "jerseyNumber": "4",
+            "position": "F",
+            "height": 78,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627863.png"
+        },
+        {
+            "tid": 26,
+            "name": "Zach Collins",
+            "jerseyNumber": "33",
+            "position": "FC",
+            "height": 83,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628380.png"
+        },
+        {
+            "tid": 16,
+            "name": "Wesley Matthews",
+            "jerseyNumber": "23",
+            "position": "GF",
+            "height": 76,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202083.png"
+        },
+        {
+            "tid": 5,
+            "name": "Raul Neto",
+            "jerseyNumber": "25",
+            "position": "PG",
+            "height": 74,
+            "weight": 170,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203526.png"
+        },
+        {
+            "tid": 12,
+            "name": "Terance Mann",
+            "jerseyNumber": "14",
+            "position": "GF",
+            "height": 77,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629611.png"
+        },
+        {
+            "tid": 13,
+            "name": "Troy Brown Jr.",
+            "jerseyNumber": "6",
+            "position": "GF",
+            "height": 78,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628972.png"
+        },
+        {
+            "tid": 7,
+            "name": "Zeke Nnaji",
+            "jerseyNumber": "22",
+            "position": "FC",
+            "height": 81,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630192.png"
+        },
+        {
+            "tid": 20,
+            "name": "Isaiah Joe",
+            "jerseyNumber": "7",
+            "position": "SG",
+            "height": 76,
+            "weight": 165,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630198.png"
+        },
+        {
+            "tid": 26,
+            "name": "Keita Bates-Diop",
+            "jerseyNumber": "31",
+            "position": "F",
+            "height": 80,
+            "weight": 229,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628966.png"
+        },
+        {
+            "tid": 21,
+            "name": "Jonathan Isaac",
+            "jerseyNumber": "1",
+            "position": "PF",
+            "height": 82,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628371.png"
+        },
+        {
+            "tid": 14,
+            "name": "Luke Kennard",
+            "jerseyNumber": "5",
+            "position": "SG",
+            "height": 77,
+            "weight": 206,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628379.png"
+        },
+        {
+            "tid": 9,
+            "name": "Moses Moody",
+            "jerseyNumber": "4",
+            "position": "GF",
+            "height": 77,
+            "weight": 211,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630541.png"
+        },
+        {
+            "tid": 3,
+            "name": "Dennis Smith Jr.",
+            "jerseyNumber": "1",
+            "position": "PG",
+            "height": 74,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628372.png"
+        },
+        {
+            "tid": 14,
+            "name": "Tyus Jones",
+            "jerseyNumber": "1",
+            "position": "PG",
+            "height": 72,
+            "weight": 196,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626145.png"
+        },
+        {
+            "tid": 24,
+            "name": "Ibou Badji",
+            "jerseyNumber": "41",
+            "position": "C",
+            "height": 85,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1630641.png"
+        },
+        {
+            "tid": 15,
+            "name": "Cody Zeller",
+            "jerseyNumber": "40",
+            "position": "C",
+            "height": 83,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png"
+        },
+        {
+            "tid": 22,
+            "name": "Dewayne Dedmon",
+            "jerseyNumber": "21",
+            "position": "C",
+            "height": 84,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203473.png"
+        },
+        {
+            "tid": 17,
+            "name": "Matt Ryan",
+            "jerseyNumber": "37",
+            "position": "SF",
+            "height": 79,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1630346.png"
+        },
+        {
+            "tid": 21,
+            "name": "Chuma Okeke",
+            "jerseyNumber": "3",
+            "position": "PF",
+            "height": 78,
+            "weight": 229,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629643.png"
+        },
+        {
+            "tid": 17,
+            "name": "Jaylen Nowell",
+            "jerseyNumber": "4",
+            "position": "SG",
+            "height": 76,
+            "weight": 201,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629669.png"
+        },
+        {
+            "tid": 26,
+            "name": "Tre Jones",
+            "jerseyNumber": "33",
+            "position": "PG",
+            "height": 73,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630200.png"
+        },
+        {
+            "tid": 17,
+            "name": "Jordan McLaughlin",
+            "jerseyNumber": "6",
+            "position": "PG",
+            "height": 71,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629162.png"
+        },
+        {
+            "tid": 8,
+            "name": "Hamidou Diallo",
+            "jerseyNumber": "6",
+            "position": "GF",
+            "height": 77,
+            "weight": 202,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628977.png"
+        },
+        {
+            "tid": 21,
+            "name": "Markelle Fultz",
+            "jerseyNumber": "20",
+            "position": "PG",
+            "height": 76,
+            "weight": 209,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png"
+        },
+        {
+            "tid": 12,
+            "name": "Amir Coffey",
+            "jerseyNumber": "7",
+            "position": "GF",
+            "height": 79,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629599.png"
+        },
+        {
+            "tid": 12,
+            "name": "Brandon Boston Jr.",
+            "jerseyNumber": "4",
+            "position": "G",
+            "height": 78,
+            "weight": 188,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630527.png"
+        },
+        {
+            "tid": 18,
+            "name": "Willy Hernangomez",
+            "jerseyNumber": "14",
+            "position": "C",
+            "height": 83,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626195.png"
+        },
+        {
+            "tid": 3,
+            "name": "Nick Richards",
+            "jerseyNumber": "14",
+            "position": "C",
+            "height": 84,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630208.png"
+        },
+        {
+            "tid": 0,
+            "name": "Aaron Holiday",
+            "jerseyNumber": "3",
+            "position": "PG",
+            "height": 72,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628988.png"
+        },
+        {
+            "tid": 20,
+            "name": "Dario Saric",
+            "jerseyNumber": "9",
+            "position": "FC",
+            "height": 82,
+            "weight": 225,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203967.png"
+        },
+        {
+            "tid": 14,
+            "name": "David Roddy",
+            "jerseyNumber": "27",
+            "position": "SF",
+            "height": 77,
+            "weight": 252,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631223.png"
+        },
+        {
+            "tid": 9,
+            "name": "Ty Jerome",
+            "jerseyNumber": "10",
+            "position": "G",
+            "height": 77,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629660.png"
+        },
+        {
+            "tid": 17,
+            "name": "Josh Minott",
+            "jerseyNumber": "8",
+            "position": "GF",
+            "height": 80,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631169.png"
+        },
+        {
+            "tid": 28,
+            "name": "Vernon Carey Jr.",
+            "jerseyNumber": "22",
+            "position": "C",
+            "height": 81,
+            "weight": 270,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630176.png"
+        },
+        {
+            "tid": 20,
+            "name": "Ousmane Dieng",
+            "jerseyNumber": "13",
+            "position": "GF",
+            "height": 79,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631172.png"
+        },
+        {
+            "tid": 5,
+            "name": "Lamar Stevens",
+            "jerseyNumber": "8",
+            "position": "F",
+            "height": 78,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630205.png"
+        },
+        {
+            "tid": 23,
+            "name": "Terrence Ross",
+            "jerseyNumber": "31",
+            "position": "GF",
+            "height": 78,
+            "weight": 206,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203082.png"
+        },
+        {
+            "tid": 14,
+            "name": "Jake LaRavia",
+            "jerseyNumber": "3",
+            "position": "F",
+            "height": 80,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631222.png"
+        },
+        {
+            "tid": 10,
+            "name": "Daishen Nix",
+            "jerseyNumber": "15",
+            "position": "PG",
+            "height": 76,
+            "weight": 226,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630227.png"
+        },
+        {
+            "tid": 14,
+            "name": "Xavier Tillman",
+            "jerseyNumber": "2",
+            "position": "FC",
+            "height": 80,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630214.png"
+        },
+        {
+            "tid": 21,
+            "name": "Caleb Houstan",
+            "jerseyNumber": "2",
+            "position": "SF",
+            "height": 79,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631216.png"
+        },
+        {
+            "tid": 29,
+            "name": "Isaiah Todd",
+            "jerseyNumber": "14",
+            "position": "PF",
+            "height": 81,
+            "weight": 219,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630225.png"
+        },
+        {
+            "tid": 10,
+            "name": "D.J. Augustin",
+            "jerseyNumber": "14",
+            "position": "PG",
+            "height": 71,
+            "weight": 183,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201571.png"
+        },
+        {
+            "tid": 3,
+            "name": "Xavier Sneed",
+            "jerseyNumber": "20",
+            "position": "SF",
+            "height": 77,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1630270.png"
+        },
+        {
+            "tid": 26,
+            "name": "Malaki Branham",
+            "jerseyNumber": "22",
+            "position": "GF",
+            "height": 77,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631103.png"
+        },
+        {
+            "tid": 18,
+            "name": "Garrett Temple",
+            "jerseyNumber": "2",
+            "position": "SG",
+            "height": 77,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202066.png"
+        },
+        {
+            "tid": 11,
+            "name": "Andrew Nembhard",
+            "jerseyNumber": "2",
+            "position": "G",
+            "height": 76,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629614.png"
+        },
+        {
+            "tid": 3,
+            "name": "J.T. Thor",
+            "jerseyNumber": "21",
+            "position": "PF",
+            "height": 81,
+            "weight": 203,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630550.png"
+        },
+        {
+            "tid": 23,
+            "name": "Saben Lee",
+            "jerseyNumber": "38",
+            "position": "PG",
+            "height": 74,
+            "weight": 183,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630240.png"
+        },
+        {
+            "tid": 15,
+            "name": "Omer Yurtseven",
+            "jerseyNumber": "77",
+            "position": "C",
+            "height": 84,
+            "weight": 275,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630209.png"
+        },
+        {
+            "tid": 11,
+            "name": "Aaron Nesmith",
+            "jerseyNumber": "26",
+            "position": "GF",
+            "height": 77,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630174.png"
+        },
+        {
+            "tid": 25,
+            "name": "Trey Lyles",
+            "jerseyNumber": "41",
+            "position": "PF",
+            "height": 81,
+            "weight": 234,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626168.png"
+        },
+        {
+            "tid": 5,
+            "name": "Sam Merrill",
+            "jerseyNumber": "15",
+            "position": "SG",
+            "height": 76,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630241.png"
+        },
+        {
+            "tid": 12,
+            "name": "Moussa Diabate",
+            "jerseyNumber": "25",
+            "position": "PF",
+            "height": 82,
+            "weight": 190,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631217.png"
+        },
+        {
+            "tid": 20,
+            "name": "Jared Butler",
+            "jerseyNumber": "13",
+            "position": "PG",
+            "height": 75,
+            "weight": 193,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630215.png"
+        },
+        {
+            "tid": 24,
+            "name": "Trendon Watford",
+            "jerseyNumber": "2",
+            "position": "FC",
+            "height": 80,
+            "weight": 237,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630570.png"
+        },
+        {
+            "tid": 17,
+            "name": "Luka Garza",
+            "jerseyNumber": "55",
+            "position": "C",
+            "height": 82,
+            "weight": 243,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630568.png"
+        },
+        {
+            "tid": 27,
+            "name": "Malachi Flynn",
+            "jerseyNumber": "8",
+            "position": "PG",
+            "height": 73,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630201.png"
+        },
+        {
+            "tid": 21,
+            "name": "Moritz Wagner",
+            "jerseyNumber": "15",
+            "position": "FC",
+            "height": 83,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629021.png"
+        },
+        {
+            "tid": 7,
+            "name": "Vlatko Cancar",
+            "jerseyNumber": "31",
+            "position": "F",
+            "height": 80,
+            "weight": 236,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628427.png"
+        },
+        {
+            "tid": 25,
+            "name": "Terence Davis",
+            "jerseyNumber": "0",
+            "position": "GF",
+            "height": 76,
+            "weight": 201,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629056.png"
+        },
+        {
+            "tid": 11,
+            "name": "James Johnson",
+            "jerseyNumber": "16",
+            "position": "PF",
+            "height": 79,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201949.png"
+        },
+        {
+            "tid": 0,
+            "name": "Vit Krejci",
+            "jerseyNumber": "27",
+            "position": "PG",
+            "height": 80,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630249.png"
+        },
+        {
+            "tid": 1,
+            "name": "Mike Muscala",
+            "jerseyNumber": "31",
+            "position": "C",
+            "height": 82,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203488.png"
+        },
+        {
+            "tid": 7,
+            "name": "DeAndre Jordan",
+            "jerseyNumber": "9",
+            "position": "C",
+            "height": 83,
+            "weight": 265,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201599.png"
+        },
+        {
+            "tid": 26,
+            "name": "Blake Wesley",
+            "jerseyNumber": "14",
+            "position": "G",
+            "height": 77,
+            "weight": 181,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631104.png"
+        },
+        {
+            "tid": 20,
+            "name": "Olivier Sarr",
+            "jerseyNumber": "30",
+            "position": "C",
+            "height": 84,
+            "weight": 237,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1630846.png"
+        },
+        {
+            "tid": 22,
+            "name": "Paul Reed",
+            "jerseyNumber": "44",
+            "position": "FC",
+            "height": 81,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630194.png"
+        },
+        {
+            "tid": 21,
+            "name": "Admiral Schofield",
+            "jerseyNumber": "1",
+            "position": "F",
+            "height": 77,
+            "weight": 241,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629678.png"
+        },
+        {
+            "tid": 6,
+            "name": "A.J. Lawson",
+            "jerseyNumber": "9",
+            "position": "SG",
+            "height": 78,
+            "weight": 178,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630639.png"
+        },
+        {
+            "tid": 7,
+            "name": "Collin Gillespie",
+            "jerseyNumber": "21",
+            "position": "PG",
+            "height": 75,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631221.png"
+        },
+        {
+            "tid": 3,
+            "name": "Kai Jones",
+            "jerseyNumber": "23",
+            "position": "FC",
+            "height": 82,
+            "weight": 221,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630539.png"
+        },
+        {
+            "tid": 16,
+            "name": "Meyers Leonard",
+            "jerseyNumber": "11",
+            "position": "C",
+            "height": 84,
+            "weight": 260,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203086.png"
+        },
+        {
+            "tid": 5,
+            "name": "Isaiah Mobley",
+            "jerseyNumber": "15",
+            "position": "PF",
+            "height": 82,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630600.png"
+        },
+        {
+            "tid": 15,
+            "name": "Jamal Cain",
+            "jerseyNumber": "8",
+            "position": "SF",
+            "height": 79,
+            "weight": 191,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631288.png"
+        },
+        {
+            "tid": 24,
+            "name": "Kevin Knox II",
+            "jerseyNumber": "20",
+            "position": "F",
+            "height": 79,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628995.png"
+        },
+        {
+            "tid": 9,
+            "name": "JaMychal Green",
+            "jerseyNumber": "41",
+            "position": "PF",
+            "height": 80,
+            "weight": 227,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203210.png"
+        },
+        {
+            "tid": 15,
+            "name": "Nikola Jovic",
+            "jerseyNumber": "5",
+            "position": "F",
+            "height": 82,
+            "weight": 209,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631107.png"
+        },
+        {
+            "tid": 23,
+            "name": "Josh Okogie",
+            "jerseyNumber": "20",
+            "position": "SG",
+            "height": 76,
+            "weight": 213,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629006.png"
+        },
+        {
+            "tid": 1,
+            "name": "Luke Kornet",
+            "jerseyNumber": "2",
+            "position": "C",
+            "height": 86,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628436.png"
+        },
+        {
+            "tid": 28,
+            "name": "Luka Samanic",
+            "jerseyNumber": "19",
+            "position": "PF",
+            "height": 82,
+            "weight": 227,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629677.png"
+        },
+        {
+            "tid": 19,
+            "name": "Isaiah Hartenstein",
+            "jerseyNumber": "55",
+            "position": "C",
+            "height": 84,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628392.png"
+        },
+        {
+            "tid": 11,
+            "name": "Kendall Brown",
+            "jerseyNumber": "10",
+            "position": "SF",
+            "height": 80,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631112.png"
+        },
+        {
+            "tid": 16,
+            "name": "A.J. Green",
+            "jerseyNumber": "20",
+            "position": "SG",
+            "height": 76,
+            "weight": 190,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631260.png"
+        },
+        {
+            "tid": 8,
+            "name": "Buddy Boeheim",
+            "jerseyNumber": "27",
+            "position": "SG",
+            "height": 77,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631205.png"
+        },
+        {
+            "tid": 12,
+            "name": "Xavier Moon",
+            "jerseyNumber": "15",
+            "position": "SG",
+            "height": 74,
+            "weight": 165,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1629875.png"
+        },
+        {
+            "tid": 13,
+            "name": "Shaquille Harrison",
+            "jerseyNumber": "10",
+            "position": "SG",
+            "height": 76,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627885.png"
+        },
+        {
+            "tid": 20,
+            "name": "Jalen Williams",
+            "jerseyNumber": "8",
+            "position": "GF",
+            "height": 78,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631114.png"
+        },
+        {
+            "tid": 20,
+            "name": "Aaron Wiggins",
+            "jerseyNumber": "21",
+            "position": "GF",
+            "height": 76,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630598.png"
+        },
+        {
+            "tid": 27,
+            "name": "Dalano Banton",
+            "jerseyNumber": "45",
+            "position": "SF",
+            "height": 79,
+            "weight": 204,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630625.png"
+        },
+        {
+            "tid": 25,
+            "name": "Neemias Queta",
+            "jerseyNumber": "88",
+            "position": "C",
+            "height": 84,
+            "weight": 248,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629674.png"
+        },
+        {
+            "tid": 28,
+            "name": "Damian Jones",
+            "jerseyNumber": "15",
+            "position": "C",
+            "height": 83,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627745.png"
+        },
+        {
+            "tid": 11,
+            "name": "Gabe York",
+            "jerseyNumber": "8",
+            "position": "PG",
+            "height": 75,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1628221.png"
+        },
+        {
+            "tid": 21,
+            "name": "Kevon Harris",
+            "jerseyNumber": "7",
+            "position": "GF",
+            "height": 78,
+            "weight": 216,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630284.png"
+        },
+        {
+            "tid": 29,
+            "name": "Xavier Cooks",
+            "jerseyNumber": "12",
+            "position": "PF",
+            "height": 80,
+            "weight": 185,
+            "playerIMG": "https://i.imgur.com/5FnaTKR.png"
+        },
+        {
+            "tid": 8,
+            "name": "Rodney McGruder",
+            "jerseyNumber": "17",
+            "position": "GF",
+            "height": 76,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203585.png"
+        },
+        {
+            "tid": 16,
+            "name": "Lindell Wigginton",
+            "jerseyNumber": "28",
+            "position": "SG",
+            "height": 73,
+            "weight": 189,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629623.png"
+        },
+        {
+            "tid": 27,
+            "name": "Jeff Dowtin",
+            "jerseyNumber": "21",
+            "position": "PG",
+            "height": 75,
+            "weight": 185,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630288.png"
+        },
+        {
+            "tid": 19,
+            "name": "Miles McBride",
+            "jerseyNumber": "2",
+            "position": "PG",
+            "height": 73,
+            "weight": 195,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630540.png"
+        },
+        {
+            "tid": 25,
+            "name": "P.J. Dozier",
+            "jerseyNumber": "35",
+            "position": "GF",
+            "height": 78,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628408.png"
+        },
+        {
+            "tid": 28,
+            "name": "Udoka Azubuike",
+            "jerseyNumber": "20",
+            "position": "C",
+            "height": 82,
+            "weight": 280,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628962.png"
+        },
+        {
+            "tid": 14,
+            "name": "John Konchar",
+            "jerseyNumber": "46",
+            "position": "SG",
+            "height": 77,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629723.png"
+        },
+        {
+            "tid": 24,
+            "name": "Drew Eubanks",
+            "jerseyNumber": "14",
+            "position": "C",
+            "height": 81,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629234.png"
+        },
+        {
+            "tid": 0,
+            "name": "Trent Forrest",
+            "jerseyNumber": "3",
+            "position": "PG",
+            "height": 76,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630235.png"
+        },
+        {
+            "tid": 0,
+            "name": "Jalen Johnson",
+            "jerseyNumber": "1",
+            "position": "F",
+            "height": 80,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630552.png"
+        },
+        {
+            "tid": 4,
+            "name": "Marko Simonovic",
+            "jerseyNumber": "19",
+            "position": "C",
+            "height": 83,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630250.png"
+        },
+        {
+            "tid": 26,
+            "name": "Julian Champagnie",
+            "jerseyNumber": "30",
+            "position": "SF",
+            "height": 80,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630577.png"
+        },
+        {
+            "tid": 9,
+            "name": "Ryan Rollins",
+            "jerseyNumber": "2",
+            "position": "SG",
+            "height": 76,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631157.png"
+        },
+        {
+            "tid": 14,
+            "name": "Kenneth Lofton Jr.",
+            "jerseyNumber": "6",
+            "position": "C",
+            "height": 79,
+            "weight": 275,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631254.png"
+        },
+        {
+            "tid": 24,
+            "name": "Jabari Walker",
+            "jerseyNumber": "34",
+            "position": "PF",
+            "height": 81,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631133.png"
+        },
+        {
+            "tid": 8,
+            "name": "Isaiah Livers",
+            "jerseyNumber": "12",
+            "position": "SF",
+            "height": 78,
+            "weight": 232,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630587.png"
+        },
+        {
+            "tid": 18,
+            "name": "Trey Murphy III",
+            "jerseyNumber": "25",
+            "position": "F",
+            "height": 80,
+            "weight": 206,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630530.png"
+        },
+        {
+            "tid": 26,
+            "name": "Gorgui Dieng",
+            "jerseyNumber": "5",
+            "position": "C",
+            "height": 82,
+            "weight": 252,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203476.png"
+        },
+        {
+            "tid": 5,
+            "name": "Mamadi Diakite",
+            "jerseyNumber": "25",
+            "position": "PF",
+            "height": 81,
+            "weight": 228,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629603.png"
+        },
+        {
+            "tid": 23,
+            "name": "Jock Landale",
+            "jerseyNumber": "34",
+            "position": "C",
+            "height": 83,
+            "weight": 255,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629111.png"
+        },
+        {
+            "tid": 13,
+            "name": "Wenyen Gabriel",
+            "jerseyNumber": "32",
+            "position": "F",
+            "height": 81,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629117.png"
+        },
+        {
+            "tid": 11,
+            "name": "Isaiah Jackson",
+            "jerseyNumber": "23",
+            "position": "FC",
+            "height": 82,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630543.png"
+        },
+        {
+            "tid": 19,
+            "name": "Trevor Keels",
+            "jerseyNumber": "0",
+            "position": "SG",
+            "height": 77,
+            "weight": 221,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631211.png"
+        },
+        {
+            "tid": 19,
+            "name": "Jericho Sims",
+            "jerseyNumber": "45",
+            "position": "C",
+            "height": 81,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630579.png"
+        },
+        {
+            "tid": 18,
+            "name": "E.J. Liddell",
+            "jerseyNumber": "32",
+            "position": "PF",
+            "height": 79,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630604.png"
+        },
+        {
+            "tid": 13,
+            "name": "Scotty Pippen Jr.",
+            "jerseyNumber": "14",
+            "position": "PG",
+            "height": 73,
+            "weight": 185,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1630590.png"
+        },
+        {
+            "tid": 10,
+            "name": "Usman Garuba",
+            "jerseyNumber": "16",
+            "position": "FC",
+            "height": 80,
+            "weight": 229,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630586.png"
+        },
+        {
+            "tid": 2,
+            "name": "RaiQuan Gray",
+            "jerseyNumber": "0",
+            "position": "PF",
+            "height": 79,
+            "weight": 269,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1630564.png"
+        },
+        {
+            "tid": 5,
+            "name": "Dylan Windler",
+            "jerseyNumber": "9",
+            "position": "GF",
+            "height": 78,
+            "weight": 196,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629685.png"
+        },
+        {
+            "tid": 14,
+            "name": "Vince Williams Jr.",
+            "jerseyNumber": "5",
+            "position": "GF",
+            "height": 78,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631246.png"
+        },
+        {
+            "tid": 12,
+            "name": "Jason Preston",
+            "jerseyNumber": "17",
+            "position": "PG",
+            "height": 75,
+            "weight": 181,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630554.png"
+        },
+        {
+            "tid": 28,
+            "name": "Micah Potter",
+            "jerseyNumber": "19",
+            "position": "C",
+            "height": 82,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630695.png"
+        },
+        {
+            "tid": 20,
+            "name": "Jaylin Williams",
+            "jerseyNumber": "6",
+            "position": "C",
+            "height": 82,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631119.png"
+        },
+        {
+            "tid": 4,
+            "name": "Justin Lewis",
+            "jerseyNumber": "34",
+            "position": "PF",
+            "height": 80,
+            "weight": 245,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631171.png"
+        },
+        {
+            "tid": 25,
+            "name": "Matthew Dellavedova",
+            "jerseyNumber": "9",
+            "position": "G",
+            "height": 75,
+            "weight": 200,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203521.png"
+        },
+        {
+            "tid": 16,
+            "name": "Thanasis Antetokounmpo",
+            "jerseyNumber": "43",
+            "position": "F",
+            "height": 78,
+            "weight": 219,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203648.png"
+        },
+        {
+            "tid": 26,
+            "name": "Charles Bassey",
+            "jerseyNumber": "23",
+            "position": "C",
+            "height": 81,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629646.png"
+        },
+        {
+            "tid": 25,
+            "name": "Keon Ellis",
+            "jerseyNumber": "23",
+            "position": "SG",
+            "height": 78,
+            "weight": 170,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631165.png"
+        },
+        {
+            "tid": 10,
+            "name": "Trevor Hudgins",
+            "jerseyNumber": "12",
+            "position": "PG",
+            "height": 72,
+            "weight": 180,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631309.png"
+        },
+        {
+            "tid": 8,
+            "name": "Jared Rhoden",
+            "jerseyNumber": "8",
+            "position": "SG",
+            "height": 78,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631197.png"
+        },
+        {
+            "tid": 26,
+            "name": "Sandro Mamukelashvili",
+            "jerseyNumber": "54",
+            "position": "FC",
+            "height": 81,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630572.png"
+        },
+        {
+            "tid": 21,
+            "name": "Jay Scrubb",
+            "jerseyNumber": "0",
+            "position": "GF",
+            "height": 77,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630206.png"
+        },
+        {
+            "tid": 10,
+            "name": "Darius Days",
+            "jerseyNumber": "5",
+            "position": "PF",
+            "height": 79,
+            "weight": 245,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1630620.png"
+        },
+        {
+            "tid": 6,
+            "name": "Theo Pinson",
+            "jerseyNumber": "10",
+            "position": "GF",
+            "height": 77,
+            "weight": 212,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629033.png"
+        },
+        {
+            "tid": 18,
+            "name": "Dereon Seabron",
+            "jerseyNumber": "0",
+            "position": "SG",
+            "height": 79,
+            "weight": 180,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631220.png"
+        },
+        {
+            "tid": 8,
+            "name": "Eugene Omoruyi",
+            "jerseyNumber": "2",
+            "position": "SF",
+            "height": 78,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630647.png"
+        },
+        {
+            "tid": 1,
+            "name": "Mfiondu Kabengele",
+            "jerseyNumber": "25",
+            "position": "FC",
+            "height": 81,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629662.png"
+        },
+        {
+            "tid": 11,
+            "name": "Jalen Smith",
+            "jerseyNumber": "10",
+            "position": "FC",
+            "height": 82,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630188.png"
+        },
+        {
+            "tid": 27,
+            "name": "Christian Koloko",
+            "jerseyNumber": "35",
+            "position": "C",
+            "height": 84,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631132.png"
+        },
+        {
+            "tid": 9,
+            "name": "Lester Quinones",
+            "jerseyNumber": "25",
+            "position": "SG",
+            "height": 77,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631311.png"
+        },
+        {
+            "tid": 2,
+            "name": "David Duke Jr.",
+            "jerseyNumber": "6",
+            "position": "G",
+            "height": 76,
+            "weight": 204,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630561.png"
+        },
+        {
+            "tid": 21,
+            "name": "Goga Bitadze",
+            "jerseyNumber": "88",
+            "position": "C",
+            "height": 84,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629048.png"
+        },
+        {
+            "tid": 17,
+            "name": "Nathan Knight",
+            "jerseyNumber": "1",
+            "position": "FC",
+            "height": 82,
+            "weight": 253,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1630233.png"
+        },
+        {
+            "tid": 28,
+            "name": "Johnny Juzang",
+            "jerseyNumber": "33",
+            "position": "SG",
+            "height": 78,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630548.png"
+        },
+        {
+            "tid": 19,
+            "name": "Duane Washington Jr.",
+            "jerseyNumber": "4",
+            "position": "G",
+            "height": 74,
+            "weight": 197,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630613.png"
+        },
+        {
+            "tid": 22,
+            "name": "Louis King",
+            "jerseyNumber": "14",
+            "position": "SF",
+            "height": 79,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629663.png"
+        },
+        {
+            "tid": 29,
+            "name": "Quenton Jackson",
+            "jerseyNumber": "29",
+            "position": "PG",
+            "height": 77,
+            "weight": 175,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631245.png"
+        },
+        {
+            "tid": 1,
+            "name": "Justin Champagnie",
+            "jerseyNumber": "11",
+            "position": "F",
+            "height": 78,
+            "weight": 206,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630551.png"
+        },
+        {
+            "tid": 15,
+            "name": "Orlando Robinson",
+            "jerseyNumber": "25",
+            "position": "FC",
+            "height": 84,
+            "weight": 225,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631115.png"
+        },
+        {
+            "tid": 22,
+            "name": "Jaden Springer",
+            "jerseyNumber": "11",
+            "position": "SG",
+            "height": 76,
+            "weight": 202,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630531.png"
+        },
+        {
+            "tid": 21,
+            "name": "Bol Bol",
+            "jerseyNumber": "10",
+            "position": "PF",
+            "height": 86,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629626.png"
+        },
+        {
+            "tid": 18,
+            "name": "Naji Marshall",
+            "jerseyNumber": "8",
+            "position": "SF",
+            "height": 79,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630230.png"
+        },
+        {
+            "tid": 28,
+            "name": "Kris Dunn",
+            "jerseyNumber": "3",
+            "position": "PG",
+            "height": 75,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627739.png"
+        },
+        {
+            "tid": 13,
+            "name": "Cole Swider",
+            "jerseyNumber": "20",
+            "position": "PF",
+            "height": 81,
+            "weight": 225,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631306.png"
+        },
+        {
+            "tid": 7,
+            "name": "Jack White",
+            "jerseyNumber": "10",
+            "position": "SF",
+            "height": 80,
+            "weight": 227,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631298.png"
+        },
+        {
+            "tid": 0,
+            "name": "Tyrese Martin",
+            "jerseyNumber": "22",
+            "position": "GF",
+            "height": 78,
+            "weight": 215,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631213.png"
+        },
+        {
+            "tid": 19,
+            "name": "DaQuan Jeffries",
+            "jerseyNumber": "19",
+            "position": "SG",
+            "height": 77,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629610.png"
+        },
+        {
+            "tid": 23,
+            "name": "Ish Wainright",
+            "jerseyNumber": "12",
+            "position": "F",
+            "height": 77,
+            "weight": 250,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630688.png"
+        },
+        {
+            "tid": 1,
+            "name": "Sam Hauser",
+            "jerseyNumber": "30",
+            "position": "SF",
+            "height": 79,
+            "weight": 217,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630573.png"
+        },
+        {
+            "tid": 9,
+            "name": "Anthony Lamb",
+            "jerseyNumber": "33",
+            "position": "GF",
+            "height": 78,
+            "weight": 227,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1630237.png"
+        },
+        {
+            "tid": 29,
+            "name": "Anthony Gill",
+            "jerseyNumber": "16",
+            "position": "PF",
+            "height": 79,
+            "weight": 230,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630264.png"
+        },
+        {
+            "tid": 26,
+            "name": "Dominick Barlow",
+            "jerseyNumber": "26",
+            "position": "F",
+            "height": 81,
+            "weight": 214,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631230.png"
+        },
+        {
+            "tid": 15,
+            "name": "Udonis Haslem",
+            "jerseyNumber": "40",
+            "position": "C",
+            "height": 80,
+            "weight": 235,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2617.png"
+        },
+        {
+            "tid": 24,
+            "name": "Skylar Mays",
+            "jerseyNumber": "4",
+            "position": "G",
+            "height": 76,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630219.png"
+        },
+        {
+            "tid": 24,
+            "name": "John Butler Jr.",
+            "jerseyNumber": "21",
+            "position": "FC",
+            "height": 85,
+            "weight": 190,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631219.png"
+        },
+        {
+            "tid": 0,
+            "name": "Bruno Fernando",
+            "jerseyNumber": "24",
+            "position": "C",
+            "height": 81,
+            "weight": 240,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628981.png"
+        },
+        {
+            "tid": 15,
+            "name": "Haywood Highsmith",
+            "jerseyNumber": "7",
+            "position": "SF",
+            "height": 79,
+            "weight": 220,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1629312.png"
+        },
+        {
+            "tid": 6,
+            "name": "McKinley Wright IV",
+            "jerseyNumber": "25",
+            "position": "PG",
+            "height": 71,
+            "weight": 192,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630593.png"
+        },
+        {
+            "tid": 27,
+            "name": "Joe Wieskamp",
+            "jerseyNumber": "15",
+            "position": "SF",
+            "height": 78,
+            "weight": 205,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630580.png"
+        },
+        {
+            "tid": 3,
+            "name": "Kobi Simmons",
+            "jerseyNumber": "2",
+            "position": "PG",
+            "height": 77,
+            "weight": 166,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628424.png"
+        },
+        {
+            "tid": 24,
+            "name": "Jeenathan Williams Jr.",
+            "jerseyNumber": "23",
+            "position": "SG",
+            "height": 77,
+            "weight": 206,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1631466.png"
+        },
+        {
+            "tid": 24,
+            "name": "Justin Minaya",
+            "jerseyNumber": "35",
+            "position": "F",
+            "height": 79,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1631303.png"
+        },
+        {
+            "tid": 14,
+            "name": "Jacob Gilyard",
+            "jerseyNumber": "0",
+            "position": "PG",
+            "height": 69,
+            "weight": 160,
+            "playerIMG": "https://cdn.nba.com/headshots/nba/latest/260x190/1631367.png"
+        },
+        {
+            "tid": 24,
+            "name": "Chance Commanche",
+            "jerseyNumber": "50",
+            "position": "C",
+            "height": 82,
+            "weight": 210,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1628435.png"
+        },
+        {
+            "tid": 0,
+            "name": "Donovan Williams",
+            "jerseyNumber": "4",
+            "position": "SG",
+            "height": 78,
+            "weight": 190,
+            "playerIMG": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/gleague/260x190/1631495.png"
+        }
+    ]
+}

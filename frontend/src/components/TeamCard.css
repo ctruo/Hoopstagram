@@ -1,0 +1,47 @@
+.team-card {
+    align-items: center;
+    background-color: var(--post-bg);
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    height: 100px;
+    width: 120px;
+    transition: 0.2s ease-in-out;
+}
+
+.team-card:hover {
+    background-color: var(--hover);
+    transform: scale(1.05);
+}
+
+.team-card img {
+    height: auto;
+    margin: 10px auto 0;
+}
+
+.team-card h1 {
+    color: rgb(187, 187, 187);
+    font-size: 0.75rem;
+    text-align: center;
+    margin: 0 auto 10px;
+}
+
+.selected {
+    background-color: var(--hover);
+}
+
+.check {
+    color: var(--accent);
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    visibility: hidden;
+}
+
+.checked {
+    visibility: visible;
+}

@@ -1,0 +1,27 @@
+#google-auth-error {
+    background-color: rgb(234, 239, 243);
+    height: 100vh;
+    position: absolute;
+    width: 100vw;
+    z-index: 999;
+}
+
+#google-auth-error h1 {
+    color: rgb(85, 85, 85);
+    font-size: 1.75rem;
+    font-weight: 500;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 750px;
+}
+
+#google-auth-error img {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70px;
+}

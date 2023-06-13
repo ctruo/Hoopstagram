@@ -1,0 +1,21 @@
+#feed-description {
+    color: white;
+    margin: 0 auto;
+    width: 65%;
+    padding-top: 150px;
+}
+
+#feed-description h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+#feed-description p {
+    font-size: 2.25rem;
+}
+
+#feed-description img {
+    box-shadow: 2px 0px 60px 20px rgba(59, 186, 156, 0.2);
+    -webkit-box-shadow: 2px 0px 60px 20px rgba(59, 186, 156, 0.2);
+    -moz-box-shadow: 2px 0px 60px 20px rgba(59, 186, 156, 0.2);
+}

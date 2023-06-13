@@ -1,0 +1,2440 @@
+{
+    "games": [
+        {
+            "id": 1011169,
+            "date": "2023-06-12T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 1011168,
+            "date": "2023-06-09T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 1011167,
+            "date": "2023-06-07T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 1011166,
+            "date": "2023-06-04T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 1011165,
+            "date": "2023-06-01T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 1007828,
+            "date": "2023-05-29T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 84,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 1007826,
+            "date": "2023-05-27T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 1007824,
+            "date": "2023-05-25T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 1007822,
+            "date": "2023-05-23T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 116
+        },
+        {
+            "id": 1007821,
+            "date": "2023-05-22T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 1007820,
+            "date": "2023-05-21T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 128,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 1007819,
+            "date": "2023-05-20T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 1007818,
+            "date": "2023-05-19T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 1007817,
+            "date": "2023-05-18T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 1007816,
+            "date": "2023-05-17T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 123
+        },
+        {
+            "id": 1007815,
+            "date": "2023-05-16T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 132,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 126
+        },
+        {
+            "id": 972869,
+            "date": "2023-05-14T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "visitor_team_score": 88
+        },
+        {
+            "id": 970441,
+            "date": "2023-05-12T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 981627,
+            "date": "2023-05-12T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 972866,
+            "date": "2023-05-11T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "home_team_score": 86,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 967809,
+            "date": "2023-05-11T00:00:00.000Z",
+            "home_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 125
+        },
+        {
+            "id": 970439,
+            "date": "2023-05-10T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 981623,
+            "date": "2023-05-10T00:00:00.000Z",
+            "home_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 972863,
+            "date": "2023-05-09T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 967808,
+            "date": "2023-05-09T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 970437,
+            "date": "2023-05-08T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 981619,
+            "date": "2023-05-08T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 972860,
+            "date": "2023-05-07T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "home_team_score": 116,
+            "period": 5,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 967807,
+            "date": "2023-05-07T00:00:00.000Z",
+            "home_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 129,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 124
+        },
+        {
+            "id": 970435,
+            "date": "2023-05-06T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 86
+        },
+        {
+            "id": 981615,
+            "date": "2023-05-06T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 127,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 972857,
+            "date": "2023-05-05T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 967806,
+            "date": "2023-05-05T00:00:00.000Z",
+            "home_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 981611,
+            "date": "2023-05-04T00:00:00.000Z",
+            "home_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 127,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 972856,
+            "date": "2023-05-03T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "visitor_team_score": 87
+        },
+        {
+            "id": 970433,
+            "date": "2023-05-02T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 981609,
+            "date": "2023-05-02T00:00:00.000Z",
+            "home_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 117
+        },
+        {
+            "id": 972853,
+            "date": "2023-05-01T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 967805,
+            "date": "2023-05-01T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 87
+        },
+        {
+            "id": 892528,
+            "date": "2023-04-30T00:00:00.000Z",
+            "home_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 120
+        },
+        {
+            "id": 970431,
+            "date": "2023-04-30T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 967800,
+            "date": "2023-04-29T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 125,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 892521,
+            "date": "2023-04-28T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 125,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 85
+        },
+        {
+            "id": 892522,
+            "date": "2023-04-28T00:00:00.000Z",
+            "home_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 118
+        },
+        {
+            "id": 892517,
+            "date": "2023-04-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 128
+        },
+        {
+            "id": 892514,
+            "date": "2023-04-26T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 892515,
+            "date": "2023-04-26T00:00:00.000Z",
+            "home_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 892516,
+            "date": "2023-04-26T00:00:00.000Z",
+            "home_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 123
+        },
+        {
+            "id": 906753,
+            "date": "2023-04-26T00:00:00.000Z",
+            "home_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 126,
+            "period": 5,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 128
+        },
+        {
+            "id": 892512,
+            "date": "2023-04-25T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 892513,
+            "date": "2023-04-25T00:00:00.000Z",
+            "home_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 136,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 130
+        },
+        {
+            "id": 907540,
+            "date": "2023-04-25T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 892511,
+            "date": "2023-04-24T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 117,
+            "period": 5,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 906748,
+            "date": "2023-04-24T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 892507,
+            "date": "2023-04-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 129
+        },
+        {
+            "id": 892508,
+            "date": "2023-04-23T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 892509,
+            "date": "2023-04-23T00:00:00.000Z",
+            "home_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 126,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 125
+        },
+        {
+            "id": 907534,
+            "date": "2023-04-23T00:00:00.000Z",
+            "home_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 114,
+            "period": 5,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 892504,
+            "date": "2023-04-22T00:00:00.000Z",
+            "home_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 892505,
+            "date": "2023-04-22T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 892506,
+            "date": "2023-04-22T00:00:00.000Z",
+            "home_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 906741,
+            "date": "2023-04-22T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 892502,
+            "date": "2023-04-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 130,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 122
+        },
+        {
+            "id": 892503,
+            "date": "2023-04-21T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 79
+        },
+        {
+            "id": 907527,
+            "date": "2023-04-21T00:00:00.000Z",
+            "home_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 120
+        },
+        {
+            "id": 892499,
+            "date": "2023-04-20T00:00:00.000Z",
+            "home_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 892500,
+            "date": "2023-04-20T00:00:00.000Z",
+            "home_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 892501,
+            "date": "2023-04-20T00:00:00.000Z",
+            "home_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 124,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 129
+        },
+        {
+            "id": 892498,
+            "date": "2023-04-19T00:00:00.000Z",
+            "home_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 906734,
+            "date": "2023-04-19T00:00:00.000Z",
+            "home_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 138,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 122
+        },
+        {
+            "id": 907520,
+            "date": "2023-04-19T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 892495,
+            "date": "2023-04-18T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 892496,
+            "date": "2023-04-18T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 90
+        },
+        {
+            "id": 892497,
+            "date": "2023-04-18T00:00:00.000Z",
+            "home_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 123,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 892493,
+            "date": "2023-04-17T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 84
+        },
+        {
+            "id": 892494,
+            "date": "2023-04-17T00:00:00.000Z",
+            "home_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 890557,
+            "date": "2023-04-16T00:00:00.000Z",
+            "home_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 891774,
+            "date": "2023-04-16T00:00:00.000Z",
+            "home_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 128
+        },
+        {
+            "id": 906726,
+            "date": "2023-04-16T00:00:00.000Z",
+            "home_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 130
+        },
+        {
+            "id": 907511,
+            "date": "2023-04-16T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 80
+        },
+        {
+            "id": 890554,
+            "date": "2023-04-15T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "Sixers"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 890555,
+            "date": "2023-04-15T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 890556,
+            "date": "2023-04-15T00:00:00.000Z",
+            "home_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 126,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 123
+        },
+        {
+            "id": 891700,
+            "date": "2023-04-15T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": true,
+            "season": 2022,
+            "status": "Final",
+            "time": "Final",
+            "visitor_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 99
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+.google-btn {
+    align-items: center;
+    background-color: #4081ec;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-start;
+    gap: 70px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 20px;
+    transition: 0.3s ease-in-out;
+}
+
+.google-btn img {
+    background-color: white;
+    width: 17px;
+    padding: 5px;
+}

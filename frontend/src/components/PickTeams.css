@@ -1,0 +1,63 @@
+#pick-teams-container {
+    background-color: var(--grey);
+    border-radius: 0.75rem;
+    flex-direction: column;
+    display: flex;
+    position: absolute;
+    padding: 10px 20px;
+    top: 2%;
+    left: 50%;
+    transform: translateX(-50%) scale(0.75);
+    z-index: 1;
+
+}
+
+#pick-teams-heading {
+    background-color: var(--navbar);
+    border-radius: 1rem;
+    color: var(--accent);
+    font-style: italic;
+    margin: 0 auto 20px;
+    padding: 5px 20px;
+}
+
+#pick-teams {
+    color: black;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+#pick-teams-btns {
+    display: flex;
+    justify-content: space-between;
+}
+
+#pick-teams-btns button {
+    font-size: 1.1rem;
+    font-weight: 600;
+    height: 40px;
+    margin: 25px auto 10px;
+    transition: 0.3s ease-in-out;
+    width: 150px;
+}
+
+.skip-btn {
+    cursor: pointer;
+    background-color: var(--post-bg);
+    border: 3px solid var(--accent);
+    color: var(--accent);
+}
+
+.done-btn {
+    cursor: pointer;
+    background-color: var(--accent);
+    border: 3px solid var(--post-bg);
+    color: var(--post-bg)
+}
+
+.done-btn:disabled {
+    background-color: var(--hover);
+    color: white;
+    cursor: not-allowed;
+}

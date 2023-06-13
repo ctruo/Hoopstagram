@@ -1,0 +1,79 @@
+nav {
+    align-items: center;
+    background-color: var(--navbar);
+    border-bottom: 3px solid var(--accent);
+    display: flex;
+    flex-direction: row;
+    height: 90px;
+    justify-content: space-between;
+    position: fixed;
+    width: 100vw;
+    z-index: 999;
+}
+
+#logo {
+    margin-left: 2%;
+}
+
+#container {
+    align-items: center;
+    display: flex;
+    height: 30px;
+}
+
+#nav-links {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 550px;
+}
+
+#nav-links a {
+    box-sizing: border-box;
+    color: white;
+    font-size: 1.20rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: 0.2s ease-in-out;
+}
+
+#nav-links a:after {
+    border-bottom: solid 3px var(--accent);
+    content: '';
+    display: block;
+    transform: scaleX(0);
+    transition: transform 250ms ease-in-out;
+}
+
+#nav-links a:hover:after {
+    transform: scaleX(1);
+}
+
+#nav-links a:hover {
+    color: var(--light-grey);
+}
+
+#account-btns {
+    display: flex;
+    margin-right: 5%;
+}
+
+#account-btns button {
+    background: none;
+    border: none;
+    color: var(--grey);
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: 0.3s ease-in-out;
+    width: 90px;
+}
+
+#account-btns button:hover {
+    color: var(--accent);
+}
+
+#account-btns :nth-child(2) {
+    border-left: 2px solid var(--grey);
+}

@@ -1,0 +1,45 @@
+.gameDivision {
+    background-color: var(--post-bg);
+    position: relative;
+    color: white;
+    width: 700px;
+    margin: 50px auto 70px;
+    text-align: center;
+    height: 170px;
+    border-radius: 10px;
+}
+
+.team-type {
+    color: var(--grey);
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 500;
+}
+
+.game-details {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.game-details img {
+    align-self: center;
+}
+
+.home-team, .away-team {
+    display: flex;
+    gap: 50px;
+}
+
+.home-team {
+    margin-left: 40px;
+}
+
+.away-team {
+    margin-right: 45px;
+}
+
+
+.score {
+    display: flex;
+    gap: 10px;
+}

@@ -1,0 +1,11 @@
+#tp-description {
+    color: white;
+    margin: 0 auto;
+    width: 65%;
+    padding-top: 150px;
+}
+
+#tp-description h1 {
+    font-size: 3rem;
+    margin: 0;
+}

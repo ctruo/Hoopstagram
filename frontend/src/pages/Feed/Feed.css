@@ -1,0 +1,146 @@
+#post-form {
+    background-color: var(--post-bg);
+    border-radius: 1rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    width: 600px;
+    margin-top: 250px;
+}
+
+#feed {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    padding: 50px;
+}
+
+textarea {
+    resize: none;
+}
+
+.error-msg {
+    color: rgb(252, 102, 102);
+    margin: 0 0 10px;
+}
+
+#post-form label {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+#post-form input {
+    border: none;
+    box-sizing: border-box;
+    height: 30px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+
+#post-form input:focus {
+    outline: none;
+}
+
+#post-form-btn {
+    background-color: var(--accent);
+    border: 3px solid var(--accent);
+    color: var(--post-bg);
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 35px;
+    transition: 0.3s ease-in-out;
+}
+
+#post-form-btn:hover {
+    background-color: var(--hover);
+    color: var(--accent);
+}
+
+#posts
+{
+    background-color: var(--post-bg);
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    width: 600px;
+    height: 500px;
+    margin-top: 775px;
+    margin-bottom: 100px;
+    border-radius: 1rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    overflow: auto;
+}
+.postsheader
+{
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: white;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+#postE
+{
+    background-color: var(--accent);
+    width: 100%;
+    border-radius: 1rem;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 2px;
+    font-size: 20px;
+}
+
+a
+{
+    color:white;
+    font-weight: 600;
+}
+
+.mid
+{
+    margin-top: 10px;
+    vertical-align: middle;
+}
+
+.midbtn
+{
+    
+    background-color: var(--post-bg);
+    border: 3px solid var(--post-bg);
+    color: var(--accent);
+    cursor: pointer;
+    margin: 15px;
+}
+.midbtn:hover {
+
+    background-color: var(--accent);
+    color: var(--post-bg);
+}
+
+#postcontainer
+{
+    width: 90%;
+    margin: 0 auto;
+    font-size: 20px;
+}
