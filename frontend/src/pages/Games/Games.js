@@ -18,16 +18,19 @@ function Games() {
   useEffect(() => console.log(index), [index]);
 
   async function fetchData() {
-    const response = await fetch("http://localhost:5000/stats/games", {
-      method: "POST",
-      mode: "cors",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-      credentials: "include",
-      body: JSON.stringify({ index: index }),
-    });
+    const response = await fetch(
+      "https://fair-erin-vulture-wig.cyclic.app/stats/games",
+      {
+        method: "POST",
+        mode: "cors",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        credentials: "include",
+        body: JSON.stringify({ index: index }),
+      }
+    );
 
     const responseData = await response.json();
 

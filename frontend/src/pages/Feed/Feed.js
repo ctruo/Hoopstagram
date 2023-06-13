@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import "./Feed.css";
 
 class Feed extends React.Component {
@@ -23,65 +23,72 @@ class Feed extends React.Component {
     } else {
       return false;
     }
-  }
+  };
 
   handleSubmit = async (e) => {
     e.preventDefault();
 
     if (this.validSubmission()) {
-      const response = await fetch("http://localhost:5000/post/create", {
-        method: "POST",
+      const response = await fetch(
+        "https://fair-erin-vulture-wig.cyclic.app/post/create",
+        {
+          method: "POST",
+          mode: "cors",
+          headers: {
+            Accept: "application/json",
+            "Content-Type": "application/json",
+          },
+          credentials: "include",
+          body: JSON.stringify({
+            title: this.titleRef.current.value,
+            text: this.textRef.current.value,
+          }),
+        }
+      );
+      const responseData = await response.json();
+
+      //error
+      if (responseData.errorMsg) {
+        window.location.href = "/login";
+      } else {
+        window.location.reload();
+      }
+    }
+  };
+
+  getData = async () => {
+    const response = await fetch(
+      "https://fair-erin-vulture-wig.cyclic.app/user/feed",
+      {
+        method: "GET",
         mode: "cors",
         headers: {
           Accept: "application/json",
           "Content-Type": "application/json",
         },
         credentials: "include",
-        body: JSON.stringify({
-          title: this.titleRef.current.value,
-          text: this.textRef.current.value,
-        }),
-      });
-      const responseData = await response.json();
-
-      //error
-      if (responseData.errorMsg) {
-        window.location.href = "/login";
       }
-      else {
-        window.location.reload();
-      }
-    }
-  }
-
-  getData = async () => {
-    const response = await fetch("http://localhost:5000/user/feed", {
-      method: "GET",
-      mode: "cors",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-      credentials: "include",
-    });
+    );
 
     const data = await response.json();
     this.setState({ data }, () => {
       this.genArray();
     });
     console.log(this.state.data);
-  }
+  };
 
   genArray = () => {
     const thisArr = this.state.data.map((item, index) => (
       <div key={index} id="postE">
-        <a className="mid" href={`/view/${item._id}`}>{item.title}</a>
+        <a className="mid" href={`/view/${item._id}`}>
+          {item.title}
+        </a>
         <div className="mid">{item.text}</div>
       </div>
     ));
 
     this.setState({ array: thisArr });
-  }
+  };
 
   render() {
     const { array } = this.state;
@@ -118,7 +125,9 @@ class Feed extends React.Component {
         <div id="posts">
           <h1 className="postsheader">Posts</h1>
           <div id="postcontainer">
-            {array ? array : "Head over to the login page to begin viewiewing posts!"}
+            {array
+              ? array
+              : "Head over to the login page to begin viewiewing posts!"}
           </div>
         </div>
       </div>

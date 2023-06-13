@@ -22,7 +22,7 @@ function PickTeams(props) {
   //only triggers on initial load
   useEffect(() => {
     if (!initial) {
-      fetch("http://localhost:5000/user/favorite_teams", {
+      fetch("https://fair-erin-vulture-wig.cyclic.app/user/favorite_teams", {
         method: "GET",
         mode: "cors",
         headers: {
@@ -51,18 +51,21 @@ function PickTeams(props) {
   }, [selectedTeams, initial]);
 
   async function done() {
-    const response = await fetch("http://localhost:5000/user/pick_teams", {
-      method: "PUT",
-      mode: "cors",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-      credentials: "include",
-      body: JSON.stringify({
-        teams: selectedTeams,
-      }),
-    });
+    const response = await fetch(
+      "https://fair-erin-vulture-wig.cyclic.app/user/pick_teams",
+      {
+        method: "PUT",
+        mode: "cors",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        credentials: "include",
+        body: JSON.stringify({
+          teams: selectedTeams,
+        }),
+      }
+    );
 
     const responseData = await response.json();
 

@@ -33,20 +33,23 @@ function Login() {
     if (google) return;
 
     if (validSubmission()) {
-      const response = await fetch("http://localhost:5000/auth/login", {
-        method: "POST",
-        mode: "cors",
-        headers: {
-          Accept: "application/json",
-          "Content-Type": "application/json",
-        },
-        credentials: "include",
+      const response = await fetch(
+        "https://fair-erin-vulture-wig.cyclic.app/auth/login",
+        {
+          method: "POST",
+          mode: "cors",
+          headers: {
+            Accept: "application/json",
+            "Content-Type": "application/json",
+          },
+          credentials: "include",
 
-        body: JSON.stringify({
-          email: emailRef.current.value,
-          password: passwordRef.current.value,
-        }),
-      });
+          body: JSON.stringify({
+            email: emailRef.current.value,
+            password: passwordRef.current.value,
+          }),
+        }
+      );
       const responseData = await response.json();
 
       //error

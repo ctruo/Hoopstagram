@@ -17,15 +17,18 @@ function UserMenu() {
   useOutsideComponent(wrapperRef, setShowMenu);
 
   async function handleLogout() {
-    const response = await fetch("http://localhost:5000/auth/logout", {
-      method: "POST",
-      mode: "cors",
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-      },
-      credentials: "include",
-    });
+    const response = await fetch(
+      "https://fair-erin-vulture-wig.cyclic.app/auth/logout",
+      {
+        method: "POST",
+        mode: "cors",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        credentials: "include",
+      }
+    );
 
     if (response.status === 200) {
       setUser(null);

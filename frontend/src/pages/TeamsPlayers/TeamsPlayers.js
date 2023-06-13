@@ -26,7 +26,7 @@ function TeamsPlayers() {
   }
 
   useEffect(() => {
-    fetch("http://localhost:5000/stats/teams_players", {
+    fetch("https://fair-erin-vulture-wig.cyclic.app/stats/teams_players", {
       method: "POST",
       mode: "cors",
       headers: {

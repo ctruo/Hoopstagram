@@ -9,7 +9,7 @@ function Profile() {
   const [profile, setProfile] = useState("");
 
   useEffect(() => {
-    fetch(`http://localhost:5000/user/profile/${id}`, {
+    fetch(`https://fair-erin-vulture-wig.cyclic.app/user/profile/${id}`, {
       method: "GET",
       mode: "cors",
       headers: {

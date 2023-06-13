@@ -72,18 +72,21 @@ function ProfileInfo() {
     }
 
     if (Object.keys(newInfo).length > 0) {
-      const response = await fetch("http://localhost:5000/user/update_info", {
-        method: "PUT",
-        mode: "cors",
-        headers: {
-          Accept: "application/json",
-          "Content-Type": "application/json",
-        },
-        credentials: "include",
-        body: JSON.stringify({
-          info: newInfo,
-        }),
-      });
+      const response = await fetch(
+        "https://fair-erin-vulture-wig.cyclic.app/user/update_info",
+        {
+          method: "PUT",
+          mode: "cors",
+          headers: {
+            Accept: "application/json",
+            "Content-Type": "application/json",
+          },
+          credentials: "include",
+          body: JSON.stringify({
+            info: newInfo,
+          }),
+        }
+      );
 
       const responseData = await response.json();
 

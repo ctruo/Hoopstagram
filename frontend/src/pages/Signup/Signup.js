@@ -44,20 +44,23 @@ function Signup() {
     if (google) return;
 
     if (validSubmission()) {
-      const response = await fetch("http://localhost:5000/auth/signup", {
-        method: "POST",
-        mode: "cors",
-        headers: {
-          Accept: "application/json",
-          "Content-Type": "application/json",
-        },
-        credentials: "include",
-        body: JSON.stringify({
-          username: usernameRef.current.value,
-          email: emailRef.current.value,
-          password: passwordRef.current.value,
-        }),
-      });
+      const response = await fetch(
+        "https://fair-erin-vulture-wig.cyclic.app/auth/signup",
+        {
+          method: "POST",
+          mode: "cors",
+          headers: {
+            Accept: "application/json",
+            "Content-Type": "application/json",
+          },
+          credentials: "include",
+          body: JSON.stringify({
+            username: usernameRef.current.value,
+            email: emailRef.current.value,
+            password: passwordRef.current.value,
+          }),
+        }
+      );
 
       const responseData = await response.json();
 
