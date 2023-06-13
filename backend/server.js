@@ -23,7 +23,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "https://hoopstagram-mijxxpfym-ctruo.vercel.app/",
+    origin: "https://hoopstagram.vercel.app/",
     credentials: true,
   })
 );
