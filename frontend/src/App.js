@@ -24,18 +24,15 @@ function App() {
   //if it is null request session user info from server
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch(
-        "https://fair-erin-vulture-wig.cyclic.app/user/account_info",
-        {
-          method: "GET",
-          mode: "cors",
-          headers: {
-            Accept: "application/json",
-            "Content-Type": "application/json",
-          },
-          credentials: "include",
-        }
-      );
+      const response = await fetch("http://localhost:5000/user/account_info", {
+        method: "GET",
+        mode: "cors",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        credentials: "include",
+      });
 
       try {
         const result = await response.json();

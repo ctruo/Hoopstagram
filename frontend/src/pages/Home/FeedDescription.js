@@ -13,7 +13,7 @@ function FeedDescription() {
           This is the place to discuss all things NBA related, from hot takes to
           the latest game details.
         </p>
-        <img src="" alt="Discussion Feed demo"></img>
+        <img src="/feed.png" alt="Discussion Feed demo"></img>
         <p>
           Show off your basketball knowledge and enthusiasm here, and get to
           know the community!
