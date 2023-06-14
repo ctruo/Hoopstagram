@@ -102,7 +102,8 @@ module.exports = function (passport) {
       {
         clientID: process.env.GOOGLE_CLIENT_ID,
         clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-        callbackURL: "http://localhost:5000/auth/google/callback",
+        callbackURL:
+          "https://fair-erin-vulture-wig.cyclic.app/auth/google/callback",
       },
       async function (accessToken, refreshToken, profile, done) {
         const user = await User.find({ googleId: profile.id });
