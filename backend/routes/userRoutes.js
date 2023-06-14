@@ -116,6 +116,8 @@ router.put("/update_info", isValidRequest, async (req, res) => {
         { new: true }
       );
 
+      console.log("UPDATE_INFO: " + update);
+
       let formattedUser = {
         username: update.username,
         email: update.email,
@@ -137,6 +139,8 @@ router.put("/pick_teams", async (req, res) => {
       { favoriteTeams: req.body.teams },
       { new: true }
     );
+
+    console.log("PICK_TEAMS: " + update);
 
     let formattedUser = {
       username: update.username,
